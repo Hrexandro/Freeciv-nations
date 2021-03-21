@@ -9,8 +9,9 @@ leaders = {
  "name",                              "sex"
  "Hadranor",                           "Male"
   "Osric",                           "Male"
-
-
+"Tiridates",                           "Male"
+"Tigranides",                           "Male"
+"Yara",                           "Male"
 }
 ruler_titles = {
  "government",      "male_title",           "female_title"
@@ -30,5 +31,28 @@ civilwar_nations = "kothian","aquilonian","ukrainian","doomite"
 cities =
  "Arenjun",
  "Shadizar",
- "Yezud"
+ "Yezud",
+ "Kalandor",
+ "Khesron",
+ "Ketha",
+ "Larsha",
+ "Ong",
+ "Ramaraj",
+ "Sayara",
+ "Zamindi",
+ "Zardas",
+ "Urkira",
+ "Zamatra",
+ "Komath",
+ "Elika",
+ "Zucarla",
+ "Innasfaln",
+ "Rinjaruin",
+ "Amanara",
+ "Karatas",
+ "Pulawer",
+ "Yazdir",
+ "Ashmir",
+ "Vos Fort"
+ 
 
