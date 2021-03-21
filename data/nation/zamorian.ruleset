@@ -1,0 +1,34 @@
+[nation_zamorian]
+
+name=_("Zamora")
+plural=_("?plural:Zamorians")
+groups="Imaginary"
+legend=_("Zamora is a kingdom")
+
+leaders = {
+ "name",                              "sex"
+ "Hadranor",                           "Male"
+  "Osric",                           "Male"
+
+
+}
+ruler_titles = {
+ "government",      "male_title",           "female_title"
+  "Anarchy",        _("Usurper %s"),             _("?female:Usurper %s")
+
+}
+flag="chimu"
+flag_alt = "-"
+style = "babylonian"
+
+init_techs=""
+init_buildings=""
+init_units=""
+conflicts_with="chimu"
+civilwar_nations = "kothian","aquilonian","ukrainian","doomite"
+
+cities =
+ "Arenjun",
+ "Shadizar",
+ "Yezud"
+
