@@ -1,0 +1,39 @@
+[nation_doomite]
+
+name=_("Doomite")
+plural=_("?plural:Doomites")
+groups="Imaginary"
+legend=_("The followers of Thulsa Doom")
+
+leaders = {
+ "name",                              "sex"
+ "Thulsa Doom",                           "Male"
+  "Thorgrim",                           "Male"
+  "Rexor",                           "Male"
+    "Yasmina",                           "Female"
+}
+ruler_titles = {
+ "government",      "male_title",           "female_title"
+
+
+}
+flag="animals"
+flag_alt = "barbarian"
+style = "babylonian"
+
+init_techs=""
+init_buildings=""
+init_units=""
+conflicts_with=""
+civilwar_nations = "stygian", "zamorian", "kothian"
+
+cities =
+"Mountain of Power",
+"Snake Tower",
+"Serpentia",
+"Circle of Snakes",
+"Mount Doom (mountains)",
+"Wheel of Pain",
+"Tree of Woe",
+"Serpentium"
+

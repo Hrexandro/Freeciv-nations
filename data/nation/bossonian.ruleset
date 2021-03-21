@@ -1,0 +1,46 @@
+[nation_bossonian]
+
+name=_("Bossonian Marches")
+plural=_("?plural:Bossonians")
+groups="Imaginary"
+legend = _("Bossonians")
+
+leaders = {
+ "name",                                "sex"
+ "Bosson",        "Male"
+
+}
+
+ruler_titles = {
+ "government",      "male_title",           "female_title"
+"Monarchy",        _("Prince %s"), _("Princess %s")
+ "Anarchy",        _("Usurper %s"),             _("?female:Usurper %s")
+}
+
+flag="dryad"
+flag_alt = "-"
+style = "Celtic"
+
+init_techs=""
+init_buildings=""
+init_units=""
+conflicts_with="dryad"
+civilwar_nations="pictish", "briton", "welsh", "cornish","aquilonian", "gundermen"
+
+cities =
+"Bossonia",
+"Stone Hill",
+"Oriskonie", ;provinces and towns of Westermarck, add to Westermarck if separated as a possible nation
+"Conawaga",
+"Scandaga", ;capital of Conawaga
+"Schohira",
+"Thenitea",
+"Coyaga",
+"Schondara",
+"Fort Kwanyara",
+"Thandara",
+"Conajohara",
+"Velitrium"
+
+
+
