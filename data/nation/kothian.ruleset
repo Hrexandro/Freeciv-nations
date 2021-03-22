@@ -31,9 +31,16 @@ civilwar_nations = "aquilonian","zamorian", "hittite", "roman", "sabine", "samni
 
 cities =
  "Khorshemish",
- 
- 
- 
+ "Daramish",
+ "El-Shah-Maddoc",
+ "Meshken",
+ "Syreb",
+ "Tantusium",
+ "Korveka",
+ "Khrosha",
+ "Zamanas",
+ "Khorgas",
+ "Yivga",
  "Guria",
  "Gervak",
  "Esbern",
@@ -49,6 +56,9 @@ cities =
  "Keltern",
  "Vorthal",
  "Arpelikon",
- "Arpelion"
+ "Arpelion",
+ "Khauran", ;add as separate nation later
+ "Khoraja" ;add as separate nation later
+ "Khanyria"
 
 
