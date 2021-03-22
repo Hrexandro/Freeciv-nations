@@ -7,9 +7,15 @@ legend=_("Stygia is a kingdom")
 
 leaders = {
  "name",                              "sex"
- "Thugra Khotan",                           "Male"
-
-
+ "Thugra Khotan",                      "Male"
+ "Tuthamon",                           "Male"
+  "Ctesphon",                           "Male"
+  "Akivasha",                           "Female"
+ "Menophis",                           "Male"
+  "Bessu Besek",                        "Male"
+   "Tuthothomes",                        "Male"
+    "Mentupherra",                       "Male"
+	 "Rahotep",                           "Male"
 }
 ruler_titles = {
  "government",      "male_title",           "female_title"
@@ -24,13 +30,26 @@ init_techs=""
 init_buildings=""
 init_units=""
 conflicts_with="scythian"
-civilwar_nations = "egyptian", "zamorian", "kothian", "amazonian", "aztec", "Otomi", "P'urhepecha", "zapotec", "mixtec","doomite"
+civilwar_nations = "egyptian", "zamorian", "kothian", "amazonian", "aztec", "Otomi", "P'urhepecha", "zapotec", "mixtec","doomite" ;Tlazitlan
 
 cities =
- "Khemi",
  "Luxur",
+  "Khemi",
  "Pteion",
  "Harakht",
- "Khesatta",
+ "Kheshatta",
  "Kutchemes",
+ "Amanopet",
+ "Bel-Phar",
+ "Qarnak",
+"Pteion",
+"Rasht",
+ "Seyan",
+ "Sukhmet",
+ "Khet",
+ "Erkulum",
+"Karnath",
+"Nebthu",
+"Pashtun (river)"
+
 
