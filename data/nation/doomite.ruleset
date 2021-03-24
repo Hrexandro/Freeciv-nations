@@ -3,7 +3,9 @@
 name=_("Doomite")
 plural=_("?plural:Doomites")
 groups="Imaginary"
-legend=_("The followers of Thulsa Doom")
+legend=_("The followers of Thulsa Doom are a dark, snake-worshipping cult\
+ that preaches asceticism, environmentalism, and renouncing family ties.\
+ its pracites involve cannibalism and human sacrifice.")
 
 leaders = {
  "name",                              "sex"
@@ -17,8 +19,8 @@ ruler_titles = {
 
 
 }
-flag="animals"
-flag_alt = "barbarian"
+flag="doomite"
+flag_alt = "animals"
 style = "babylonian"
 
 init_techs=""
@@ -29,11 +31,12 @@ civilwar_nations = "stygian", "zamorian", "kothian"
 
 cities =
 "Mountain of Power",
-"Snake Tower",
+"Tower of the Serpent",
 "Serpentia",
 "Circle of Snakes",
 "Mount Doom (mountains)",
 "Wheel of Pain",
 "Tree of Woe",
+"Eye of the Serpent",
 "Serpentium"
 
