@@ -3,7 +3,11 @@
 name=_("Zamora")
 plural=_("?plural:Zamorians")
 groups="Imaginary"
-legend=_("Zamora is a kingdom")
+legend=_("Zamora is an ancient and decadent culture\
+ The strange and mysterious Zamorians have a reputation\
+ for deviousness and thievery.Although Zamora has a rich culture\
+ and centres of higher learning, it is the dark alleys \
+and seedy taverns that give it its reputation.")
 
 leaders = {
  "name",                              "sex"
@@ -18,14 +22,14 @@ ruler_titles = {
   "Anarchy",        _("Usurper %s"),             _("?female:Usurper %s")
 
 }
-flag="chimu" ;snake, black ring
-flag_alt = "-"
+flag="zamorian" 
+flag_alt = "chimu" 
 style = "babylonian"
 
 init_techs=""
 init_buildings=""
 init_units=""
-conflicts_with="chimu"
+conflicts_with=""
 civilwar_nations = "kothian","aquilonian","ukrainian","doomite" ;later create Roma nation and add it here
 
 cities =

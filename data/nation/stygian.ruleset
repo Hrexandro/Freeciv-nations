@@ -3,7 +3,9 @@
 name=_("Stygia")
 plural=_("?plural:Stygians")
 groups="Imaginary"
-legend=_("Stygia is a kingdom")
+legend=_("Stygia is an ancient kingdom, \
+heavily influenced by the priesthood its \
+dark religion.")
 
 leaders = {
  "name",                              "sex"
@@ -22,14 +24,14 @@ ruler_titles = {
   "Anarchy",        _("Usurper %s"),             _("?female:Usurper %s")
 
 }
-flag="scythian"
-flag_alt = "-"
+flag="stygian"
+flag_alt = "scythian"
 style = "babylonian"
 
 init_techs=""
 init_buildings=""
 init_units=""
-conflicts_with="scythian"
+conflicts_with="egyptian", "modernegyptian"
 civilwar_nations = "egyptian", "zamorian", "kothian", "amazonian", "aztec", "Otomi", "P'urhepecha", "zapotec", "mixtec","doomite" ;Tlazitlan
 
 cities =

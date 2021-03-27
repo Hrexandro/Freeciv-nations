@@ -3,7 +3,8 @@
 name=_("Poitain")
 plural=_("?plural:Poitainians")
 groups="Imaginary"
-legend = _("Poitain is a province of Aquilonia.")
+legend = _("Poitain is a lush and rich land famed for its proud knights.\
+ once an independent kingdom, it was later incorporated into Aquilonia.")
 
 leaders = {
  "name",                                "sex"

@@ -3,7 +3,8 @@
 name=_("Kothians")
 plural=_("?plural:Kothians")
 groups="Imaginary"
-legend=_("Koth is a kingdom")
+legend=_("Kothians are a Hyborian race with strong Shemitish\
+ and Stygian influences.")
 
 leaders = {
  "name",                              "sex"
@@ -27,7 +28,7 @@ init_techs=""
 init_buildings=""
 init_units=""
 conflicts_with=""
-civilwar_nations = "aquilonian","zamorian", "hittite", "roman", "sabine", "samnite", "etruscan"
+civilwar_nations = "aquilonian","zamorian", "hittite","etruscan", "roman", "sabine", "samnite"
 
 cities =
  "Khorshemish",
