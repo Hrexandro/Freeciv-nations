@@ -36,6 +36,25 @@ American - civilwar_nations to include various Native American nations and state
 
 Put the folders inside your Freeciv folder and merge with existing directories. Paste the following lines to the files below:
 
+#### …/data/default/nationlist.ruleset
+    *include "nation/aquilonian.ruleset"
+
+    *include "nation/bossonian.ruleset"
+
+    *include "nation/doomite.ruleset"
+
+    *include "nation/gundermen.ruleset"
+
+    *include "nation/kothian.ruleset"
+
+    *include "nation/poitainian.ruleset"
+
+    *include "nation/pony.ruleset"
+
+    *include "nation/stygian.ruleset"
+
+    *include "nation/zamorian.ruleset"
+
 …/data/misc/flags.spec
 
 …/data/misc/shields.spec
