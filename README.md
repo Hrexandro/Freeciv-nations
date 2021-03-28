@@ -24,6 +24,7 @@ Nations from Robert E. Howard's Hyborian Era, known from the Conan the Cimmerian
 ## Real-world
 
     American - civilwar_nations to include various Native American nations and state-level subdivisions (Californian, Texan, Vermont).
+    Islamic State
 
 # Installation
 
@@ -34,6 +35,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
     *include "nation/bossonian.ruleset"
     *include "nation/doomite.ruleset"
     *include "nation/gundermen.ruleset"
+    *include "nation/islamicstate.ruleset"
     *include "nation/kothian.ruleset"
     *include "nation/poitainian.ruleset"
     *include "nation/pony.ruleset"
@@ -46,6 +48,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
     "f.bossonian", "flags/bossonian"
     "f.doomite", "flags/doomite"
     "f.gundermen", "flags/gundermen"
+    "f.islamicstate", "flags/islamicstate"
     "f.kothian", "flags/kothian"
     "f.poitainian", "flags/poitainian"
     "f.pony", "flags/pony"
@@ -58,6 +61,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
     "f.shield.bossonian", "flags/bossonian-shield"
     "f.shield.doomite", "flags/doomite-shield"
     "f.shield.gundermen", "flags/gundermen-shield"
+    "f.shield.islamicstate", "flags/islamicstate-shield"
     "f.shield.kothian", "flags/kothian-shield"
     "f.shield.poitainian", "flags/poitainian-shield"
     "f.shield.pony", "flags/pony-shield"
@@ -71,6 +75,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
     "f.doomite", "flags/doomite-large"
     "f.gundermen", "flags/gundermen-large"
     "f.kothian", "flags/kothian-large"
+    "f.islamicstate", "flags/islamicstate-large"
     "f.poitainian", "flags/poitainian-large"
     "f.pony", "flags/pony-large"
     "f.stygian", "flags/stygian-large"
@@ -81,6 +86,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
     "f.shield.bossonian", "flags/bossonian-shield-large"
     "f.shield.doomite", "flags/doomite-shield-large"
     "f.shield.gundermen", "flags/gundermen-shield-large"
+    "f.shield.islamicstate", "flags/islamicstate-shield-large"
     "f.shield.kothian", "flags/kothian-shield-large"
     "f.shield.poitainian", "flags/poitainian-shield-large"
     "f.shield.pony", "flags/pony-shield-large"
