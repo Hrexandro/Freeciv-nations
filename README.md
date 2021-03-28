@@ -23,7 +23,7 @@ Nations from Robert E. Howard's Hyborian Era, known from the Conan the Cimmerian
 
 ## Real-world
 
-    American - civilwar_nations to include various Native American nations and state-level subdivisions (Californian, Texan, Vermont).
+    American - civilwar_nations to include various Native American nations and state-level subdivisions.
     Islamic State
 
 # Installation
