@@ -1,6 +1,6 @@
 [nation_kothian]
 
-name=_("Kothians")
+name=_("Kothian")
 plural=_("?plural:Kothians")
 groups="Imaginary"
 legend=_("Kothians are a Hyborian race with strong Shemitish\

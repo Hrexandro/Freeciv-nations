@@ -1,6 +1,6 @@
 [nation_aquilonian]
 
-name=_("Aquilonians")
+name=_("Aquilonian")
 plural=_("?plural:Aquilonians")
 groups="Imaginary"
 legend=_("Aquilonia, known as 'the Flower of the West',\

@@ -1,6 +1,6 @@
 [nation_gundermen]
 
-name=_("Gunderland")
+name=_("Gunderlander")
 plural=_("?plural:Gundermen")
 groups="Imaginary"
 legend = _("The Gundermen are a race of pure Hyborian stock\

@@ -1,6 +1,6 @@
 [nation_bossonian]
 
-name=_("Bossonian Marches")
+name=_("Bossonian")
 plural=_("?plural:Bossonians")
 groups="Imaginary"
 legend = _("The Bossonians are descendants of aborigines and Hyborians,\

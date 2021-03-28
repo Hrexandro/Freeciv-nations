@@ -1,6 +1,6 @@
 [nation_poitainian]
 
-name=_("Poitain")
+name=_("Poitainian")
 plural=_("?plural:Poitainians")
 groups="Imaginary"
 legend = _("Poitain is a lush and rich land famed for its proud knights.\

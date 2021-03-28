@@ -1,6 +1,6 @@
 [nation_stygian]
 
-name=_("Stygia")
+name=_("Stygian")
 plural=_("?plural:Stygians")
 groups="Imaginary"
 legend=_("Stygia is an ancient kingdom, \
