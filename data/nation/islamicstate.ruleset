@@ -1,0 +1,53 @@
+[nation_islamicstate]
+
+name=_("Islamic State")
+plural=_("?plural:Islamist")
+groups="Modern", "Asian"
+legend=_("The Islamic State in Iraq and Syria is a terrorist group\
+ and an unrecognized proto-state, organized around a Salafi jihadist doctrine.")
+
+leaders = {
+ "name",                        "sex"
+ "Abu Musab al-Zarqawi",        "Male"
+ "Abu Ibrahim al-Hashimi al-Qurashi",            "Male"
+ "Abu Bakr al-Baghdadi",               "Male"
+}
+
+ruler_titles = {
+ "government",     "male_title",              "female_title"
+ "Despotism",      _("Sheikh %s"),            _("Shaykha %s")
+ "Fundamentalism", _("Caliph %s"),            _("Calipha %s")
+ "Monarchy",       _("Emir %s"),              _("Emira %s")
+}
+
+flag="islamicstate"
+flag_alt = "arab"
+style = "Babylonian"
+
+init_techs=""
+init_buildings=""
+init_units=""
+
+
+conflicts_with=""
+civilwar_nations="syrian", "iraqi", "kurdish", "assyrian"
+
+
+cities =
+"Ar-Raqqa",
+"Baquba",
+ "Al-Mayadin",
+ "Al-Qa'im",
+  "Abu Kamal",
+  "Hajin",
+ "Dayr as-Zawr",
+"Al-Susah",
+"Al-Marashidah",
+"Al-Baghuz Fawqani",
+ "Mosul",
+  "Baquba",
+  "Abu Ghraib",
+  "Deir ez-Zor",
+   "Falluja",
+   "Manbij",
+    "Tikrit"
