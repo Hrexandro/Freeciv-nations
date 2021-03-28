@@ -40,7 +40,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
     *include "nation/stygian.ruleset"
     *include "nation/zamorian.ruleset"
 
-…/data/misc/flags.spec
+#### …/data/misc/flags.spec
 
     "f.aquilonian", "flags/aquilonian"
     "f.bossonian", "flags/bossonian"
@@ -52,7 +52,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
     "f.stygian", "flags/stygian"
     "f.zamorian", "flags/zamorian"
       
-…/data/misc/shields.spec
+#### …/data/misc/shields.spec
 
     "f.shield.aquilonian", "flags/aquilonian-shield"
     "f.shield.bossonian", "flags/bossonian-shield"
@@ -64,7 +64,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
     "f.shield.stygian", "flags/stygian-shield"
     "f.shield.zamorian", "flags/zamorian-shield"
 
-…/data/misc/flags-large.spec
+#### …/data/misc/flags-large.spec
 
     "f.aquilonian", "flags/aquilonian-large"
     "f.bossonian", "flags/bossonian-large"
@@ -75,7 +75,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
     "f.pony", "flags/pony-large"
     "f.stygian", "flags/stygian-large"
     "f.zamorian", "flags/zamorian-large"
-…/data/misc/shields-large.spec
+#### …/data/misc/shields-large.spec
 
     "f.shield.aquilonian", "flags/aquilonian-shield-large"
     "f.shield.bossonian", "flags/bossonian-shield-large"
