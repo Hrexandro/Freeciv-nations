@@ -31,7 +31,7 @@ civilwar_nations="pictish", "briton","breton", "welsh", "cornish","aquilonian", 
 cities =
 "Bossonia",
 "Stone Hill",
-"Westermarck" ;perhaps separate, for now the towns are added to bossonia
+"Westermarck", ;perhaps separate, for now the towns are added to bossonia
 "Oriskonie", ;provinces and towns of Westermarck, add to Westermarck if separated as a possible nation
 "Conawaga",
 "Scandaga", ;capital of Conawaga
