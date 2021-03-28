@@ -10,7 +10,7 @@ Nations from Robert E. Howard's Hyborian Era, known from the Conan the Cimmerian
 
     Aquilonian
     Bossonian
-    Doomite - Included are the followers of Thulsa Doom from the 1982 John Milius movie.
+    Doomite - the followers of Thulsa Doom from the 1982 John Milius movie.
     Gundermen
     Kothian
     Poitainian
