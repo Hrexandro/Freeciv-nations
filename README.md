@@ -6,7 +6,7 @@ New nations you can add to Freeciv.
 
 ### Hyborian Age
 
-Nations from Robert E. Howard's Hyborian Era, known from the Conan the Cimmerian stories.
+Nations from Robert E. Howard's Hyborian Era, known from the Conan the Cimmerian stories. Their civilwar_nations include neighbours, subnations, as well as the real-world peoples that inspired or are supposed descendants of a given nation.
 
 Aquilonian
 
