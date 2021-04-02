@@ -1,0 +1,186 @@
+[nation_romani]
+
+name=_("Romani")
+plural=_("?plural:Romani")
+groups="Imaginary" ;never existed as independent polity
+legend=_("Romani are an ethnic group originating from the Indian subcontinent\
+, they arrived in West Asia and Europe around 1007. Until recently they\
+ mostly lead a nomadic lifestyle. The Romani never created their own state,\
+ but still retained their own culture throughout the centuries.\
+ They worked as artist and plied many trades, including blacksmithing,\
+ horse husbandry and fortune-telling.")
+
+leaders = {
+ "name",                "sex"
+;https://en.wikipedia.org/wiki/List_of_Romani_people Politicians and activists			
+"Ali Krasniqi"	,   "Male"	;	 Albanian activist
+"Ian Hancock"	,   "Male"	;	 American-British activist
+"Rudolf Sarközi"	,   "Male"	;	 Austrian chairman of Kulturverein
+"Juscelino Kubitschek"	,   "Male"	;	Brazilian president
+"Ronald Lee"	,   "Male"	;	 Canadian activist
+"Romani Rose"	,   "Male"	;	 German activist
+"Dávid Daróczi"	,   "Male"	;	 Hungarian Government Spokesperson of the Republic of Hungary
+"Flórián Farkas"	,   "Male"	;	Hungarian politician
+"Lívia Járóka"	,   "Female"	;	 Hungarian MEP
+"Viktória Mohácsi"	,   "Female"	;	 Hungarian MEP
+"Ágnes Osztolykán"	,   "Female"	;	 Hungarian politician
+"Bajram Haliti"	,   "Male"	;	 Kosovar activist
+"Alfonso Mejia-Arias"	,   "Male"	;	 Mexican politician
+"Damian Drăghici"	,   "Male"	;	 Romanian MEP
+"Nicolae Păun "	,   "Male"	;	 Romanian politician
+"Mădălin Voicu "	,   "Male"	;	 Romanian politician
+"Rajko Đurić "	,   "Male"	;	 Serbian president of Roma Union of Serbia
+"Sani Rifati "	,   "Male"	;	 Serbian activist
+"Juan de Dios Ramírez Heredia "	,   "Male"	;	 Spanish MEP founder of the Romani Union in Spain
+"Soraya Post "	,   "Female"	;	 Swedish politician
+"Shibilis"	,   "Male"	;	https://en.wikipedia.org/wiki/King_of_the_Gypsies
+"Bluebeard "	,   "Male"		
+"Hugh Roberts"	,   "Male"		
+"Jenkin Cowdiddle"	,   "Male"		
+"Spising"	,   "Male"		
+"Puff Dick"	,   "Male"		
+"Laurence Crossbiter"	,   "Male"		
+"Richard Skelton"	,   "Male"		
+"Cock Lorel"	,   "Male"		
+"Giles Hather"	,   "Male"		
+"Kit Callot"	,   "Female"		
+"Haniel Boswell"	,   "Male"		
+"Jacob Rewbrey"	,   "Male"		
+"James Boswell"	,   "Male"		
+"Henry Boswell"	,   "Male"		
+"Edmund Mashiter"	,   "Male"		
+"Louis Boswell"	,   "Male"		
+"Inverto Boswell"	,   "Male"		
+"Harry Burton"	,   "Male"		
+"Absalom Smith"	,   "Male"		
+"Matty Cooper"	,   "Male"		
+"Xavier Petulengro-Smith"	,   "Male"		
+"Gilderoy Scamp"	,   "Male"		
+"Louis Welch"	,   "Male"		
+"Tamás Bolgár"	,   "Male"		
+"Scaramuccia"	,   "Male"		
+"Polykarp Karoli"	,   "Male"		
+"Martin Erik Karoli "	,   "Male"		
+"Matiasz Korolewicz"	,   "Male"		
+"Zack Rose"	,   "Male"		
+"Iulian Rădulescu"	,   "Male"		
+ "Florin Cioabă",   "Male" ;Self proclaimed "King of Roma everywhere"			
+"Dorin Cioabă",   "Male";his son and heir			
+"John Faa"	,   "Male"		
+"Johnne Wanne"	,   "Male"		
+"Patrick Faa"	,   "Male"			
+"William Marshall"	,   "Male"		
+"Charles Faa Blythe"	,   "Male"		
+"Tom Miller"	,   "Male"		
+"Elijah George"	,   "Male"		
+"Angelo Vallerugo III"	,   "Male"		
+"Abram Wood"	,   "Male"		
+
+}
+
+ruler_titles = {
+ "government",      "male_title",            "female_title"
+
+}
+
+flag="romani"
+flag_alt = "indoeuropean"
+style = "celtic"
+
+init_techs=""
+init_buildings=""
+init_units=""
+
+conflicts_with = ""
+civilwar_nations = "romanian";dopisz kraje z dużą populacją
+
+;https://en.wikipedia.org/wiki/List_of_Romani_settlements
+cities =
+ "Stolipinovo",;the largest Roma community in the Balkans
+ "Gradets",;Gradets is probably the largest Roma village in the world
+ "Ponorâta",
+ "Zanya",
+ "Lomnička",
+ "Prislop",
+ "Valea Hotarului",
+ "Cornetu",
+ "Lespezi",
+ "Fântânele",
+ "Valea Corbului",
+ "Hetea",
+ "Ocolna",
+ "Zece Prăjini",
+ "Csenyéte",
+ "Zeletin",
+ "Bărbulești",
+ "Liești",
+ "Moravitsa",
+ "Belomortsi",
+"Băcioiu",
+"Mârza",
+"Iazu",
+"Măguri",
+"Golyam Izvor",
+"Alsószentmárton",
+"Dolni Cibar",
+"Bolyarski Izvor",
+"Ostrets",
+"Altsek",
+"Tonciu",
+"Mironu",
+"Pisteştii din Deal",
+"Pusta",
+"Valea Șapartocului",
+"Toflea",
+"Zimnitsa",
+"Valea Beciului",
+"Sălcuța",
+"Gilvánfa",
+"Nemşa",
+"Toporec",
+"Izvorovo",
+"Bâscenii de Jos",
+"Arini",
+"Vardun",
+"Petculeşti",
+"Mag",
+"Cherkovna",
+"Munteni",
+"Stâna",
+"Dzhurovo",
+"Buynovo",
+"Svoboda",
+"Shuto Orizari",
+"Rudeni",
+"Plaiu Câmpinei",
+"Dăroaia",
+"Rodbav",
+"Crucea",
+"Kriva Reka",
+"Șoard",
+"Rădoaia",
+"Bukovlak",
+"Sindel",
+"Aprilovo",
+"Budiu Mic",
+"Silivaș",
+"Bistra",
+"Varbitsa",
+"Seliminovo",
+"Dudașu",
+"Gepiș",
+"Românești",
+"Bryagovo",
+"Sotirya",
+"Cozieni",
+"Nandra",
+"Dragomazh",
+"Lozenets",
+"Gura Pravăț",
+"Ungra",
+"Idiciu",
+"Lupoaia", 
+ "Gârcini",;not village, have them be later
+ "Pata-Rât"
+
+ 
