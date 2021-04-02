@@ -25,6 +25,7 @@ Nations from Robert E. Howard's Hyborian Era, known from the Conan the Cimmerian
 
     American - civilwar_nations to include various Native American nations and state-level subdivisions.
     Islamic State
+    Romani
 
 # Installation
 
@@ -39,6 +40,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
     *include "nation/kothian.ruleset"
     *include "nation/poitainian.ruleset"
     *include "nation/pony.ruleset"
+    *include "nation/romani.ruleset"
     *include "nation/stygian.ruleset"
     *include "nation/zamorian.ruleset"
 
@@ -52,6 +54,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
     "f.kothian", "flags/kothian"
     "f.poitainian", "flags/poitainian"
     "f.pony", "flags/pony"
+    "f.romani", "flags/romani"
     "f.stygian", "flags/stygian"
     "f.zamorian", "flags/zamorian"
       
@@ -65,6 +68,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
     "f.shield.kothian", "flags/kothian-shield"
     "f.shield.poitainian", "flags/poitainian-shield"
     "f.shield.pony", "flags/pony-shield"
+    "f.shield.romani", "flags/romani-shield"
     "f.shield.stygian", "flags/stygian-shield"
     "f.shield.zamorian", "flags/zamorian-shield"
 
@@ -78,6 +82,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
     "f.islamicstate", "flags/islamicstate-large"
     "f.poitainian", "flags/poitainian-large"
     "f.pony", "flags/pony-large"
+    "f.romani", "flags/romani-large"
     "f.stygian", "flags/stygian-large"
     "f.zamorian", "flags/zamorian-large"
 #### …/data/misc/shields-large.spec
@@ -90,6 +95,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
     "f.shield.kothian", "flags/kothian-shield-large"
     "f.shield.poitainian", "flags/poitainian-shield-large"
     "f.shield.pony", "flags/pony-shield-large"
+    "f.shield.romani", "flags/romani-shield-large"
     "f.shield.stygian", "flags/stygian-shield-large"
     "f.shield.zamorian", "flags/zamorian-shield-large"
     
