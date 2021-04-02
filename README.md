@@ -99,4 +99,3 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
     "f.shield.stygian", "flags/stygian-shield-large"
     "f.shield.zamorian", "flags/zamorian-shield-large"
     
-#### If you have any comments, suggestions, find any bugs or errors, please feel free to contact me & let me know.
