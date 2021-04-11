@@ -1,0 +1,46 @@
+[nation_westermarck]
+
+name=_("Westermarck")
+plural=_("?plural:Westermarckians")
+groups="Imaginary"
+legend = _("Westermarck is a frontier region of Aquilonia\
+ established on the land wrestled away from the wild Picts.")
+
+leaders = {
+ "name",                                "sex"
+ "Brocas",        "Male" 
+ "Thasperas",        "Male"
+ "Brant Drago",        "Male"  
+}
+
+ruler_titles = {
+ "government",      "male_title",           "female_title"
+"Monarchy",        _("Prince %s"), _("Princess %s")
+ "Anarchy",        _("Usurper %s"),             _("?female:Usurper %s")
+}
+
+flag="westermarck"
+flag_alt = "-"
+style = "Celtic"
+
+init_techs=""
+init_buildings=""
+init_units=""
+conflicts_with=""
+civilwar_nations="pictish","aquilonian", "gundermen","bossonian", "poitainian"
+
+cities =
+"Oriskonie",
+"Conawaga",
+"Scandaga",
+"Schohira",
+"Thenitea",
+"Coyaga",
+"Schondara",
+"Fort Kwanyara",
+"Thandara",
+"Conajohara",
+"Velitrium"
+
+
+
