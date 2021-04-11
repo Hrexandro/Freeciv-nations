@@ -1,0 +1,37 @@
+[nation_khaurani]
+
+name=_("Khaurani")
+plural=_("?plural:Khaurani")
+groups="Imaginary"
+legend=_("A small border kingdom between the eastern \
+tip of Koth and the Eastern Desert region of the Zuagirs.\
+ A matriarchal queendom. The foremother of the dynasty\ 
+ had intercourse with an desert demon. \
+ Hence, a powerful but evil witch, always named Salome, is born to this dynasty.")
+
+leaders = {
+ "name",                              "sex"
+
+  "Salome",                           "Female"
+   "Taramis",                           "Female"
+
+
+}
+ruler_titles = {
+ "government",      "male_title",           "female_title"
+  "Anarchy",        _("Usurper %s"),             _("?female:Usurper %s")
+
+}
+flag="khoraja"
+flag_alt = "-"
+style = "Babylonian"
+
+init_techs=""
+init_buildings=""
+init_units=""
+conflicts_with=""
+civilwar_nations = "kothian", "shemite"
+
+cities =
+"Khauran"
+

@@ -28,7 +28,7 @@ init_techs=""
 init_buildings=""
 init_units=""
 conflicts_with=""
-civilwar_nations = "aquilonian","zamorian", "hittite","etruscan", "roman", "sabine", "samnite"
+civilwar_nations = "aquilonian","khorajan", "shemite","zamorian", "hittite","etruscan", "roman", "sabine", "samnite"
 
 cities =
  "Khorshemish",
@@ -58,8 +58,6 @@ cities =
  "Vorthal",
  "Arpelikon",
  "Arpelion",
- "Khauran", ;add as separate nation later
- "Khoraja", ;add as separate nation later
- "Khanyria"
+
 
 

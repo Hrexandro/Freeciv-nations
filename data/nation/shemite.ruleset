@@ -1,0 +1,72 @@
+[nation_shemite]
+
+name=_("Shemite")
+plural=_("?plural:Shemites")
+groups="Imaginary"
+legend=_("Shem is primarily a land of deserts,\
+though there are more fertile lands in the north and west. \
+The Shemites have the reputation of liars. The Shemites are usually tribal in nature.\
+ They are primarily nomadic, and travel in groups rather than constructing cities. \
+ In the deserts and plains of Shem, oases tend to be just as important as towns.\
+ However, as a major crossroads of landward trade, Shem does have a number\
+ of population centres to cater to merchants and caravans.")
+
+leaders = {
+ "name",                              "sex"
+ "Samuabi",                           "Male"
+ "Akhirom",        "Male"
+ "Bêlit",          "Female"
+  "Afrit",          "Female"
+ "Aphrates",        "Male"
+  "Rufia",        "Female"
+   "Ismaia",        "Female"
+    "Ikthan",        "Male"
+
+
+}
+ruler_titles = {
+ "government",      "male_title",           "female_title"
+  "Anarchy",        _("Usurper %s"),             _("?female:Usurper %s")
+
+}
+flag="shemite"
+flag_alt = "babylonian"
+style = "babylonian"
+
+init_techs=""
+init_buildings=""
+init_units=""
+conflicts_with=""
+civilwar_nations = "stygian", "kothian"
+
+cities =
+"Asgalun (ocean)",
+"Nippr",
+"Akhlat", 
+"Anakia", 
+"Eruk",
+"Akkaria",
+ "Ataku",
+ "Sabatea",
+ "Abbadrah",
+ "Ghaza",
+ "Akbitana",
+ "Bêcharadur",
+ "Asgakin",
+ "Baalur",
+ "Kaetta",
+ "Buryat",
+ "Khyfa",
+ "Nedrezzar",
+  "Kutchemes",
+  "Nippr",
+  "Dan-marcah (ocean)",
+  "Kyros",
+  "Qjara",
+  "Sabatea",
+  "Sark",
+  "Shumir",
+  "Shushan",
+  "Tal’ib",
+  "Thujara",
+  "Yamman"
