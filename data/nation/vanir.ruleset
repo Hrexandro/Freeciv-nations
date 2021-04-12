@@ -1,0 +1,43 @@
+[nation_vanir]
+
+name=_("Vanir")
+plural=_("?plural:Vanir")
+groups="Imaginary"
+legend = _("The Vanir are people of the Nordics stock. \
+They often battled against their cousins, the Aesir.")
+
+leaders = {
+ "name",                                "sex"
+ "Bragi",        "Male" 
+ "Heimdul",        "Male" 
+ "Starkad",        "Male" 
+  "Thorfel the Fair",        "Male" 
+    "Wulfstan",        "Male" 
+
+}
+
+ruler_titles = {
+ "government",      "male_title",           "female_title"
+
+}
+
+flag="vanir"
+flag_alt = "-"
+style = "Celtic"
+
+init_techs=""
+init_buildings=""
+init_units=""
+conflicts_with=""
+civilwar_nations="viking", "aesir"
+
+cities =
+"Skaun",
+"Lireigh",
+"Starkadsgarth",
+"Umiank"
+
+
+
+
+

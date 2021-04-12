@@ -1,0 +1,46 @@
+[nation_aesir]
+
+name=_("Aesir")
+plural=_("?plural:Aesir")
+groups="Imaginary"
+legend = _("The people of Asgard relish battle, \
+but only to loot and pillage, not as means of expanding their borders.")
+
+leaders = {
+ "name",                                "sex"
+ "Gorm",        "Male" 
+ "Horsa",        "Male" 
+  "Niord",        "Male" 
+    "Wulfhere",        "Male" 
+	    "Hialmar",        "Male" 
+}
+
+ruler_titles = {
+ "government",      "male_title",           "female_title"
+
+}
+
+flag="aesir"
+flag_alt = "-"
+style = "Celtic"
+
+init_techs=""
+init_buildings=""
+init_units=""
+conflicts_with=""
+civilwar_nations="viking", "vanir"
+
+cities =
+"Brutheim",
+"Aloe",
+"Valkheim",
+"Utgard",
+"Wolfraven",
+"Varethyr",
+"Aldruth",
+"Hedalund"
+
+
+
+
+
