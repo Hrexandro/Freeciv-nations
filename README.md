@@ -35,9 +35,9 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
 
 ###### Under ngroups:
 
-[ngroup_thurian]
-name=_("?nationgroup:Thurian")
-match=3
+    [ngroup_thurian]
+    name=_("?nationgroup:Thurian")
+    match=3
 
 ###### At the bottom:
 
