@@ -32,6 +32,15 @@ Nations from Robert E. Howard's Hyborian Era, known from the Conan the Cimmerian
 Put the folders inside your Freeciv folder and merge with existing directories. Paste the following lines to the files below:
 
 #### …/data/default/nationlist.ruleset
+
+###### Under ngroups:
+
+[ngroup_thurian]
+name=_("?nationgroup:Thurian")
+match=3
+
+###### At the bottom:
+
     *include "nation/aquilonian.ruleset"
     *include "nation/bossonian.ruleset"
     *include "nation/doomite.ruleset"
