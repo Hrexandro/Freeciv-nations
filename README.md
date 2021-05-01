@@ -38,6 +38,12 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
     [ngroup_thurian]
     name=_("?nationgroup:Thurian")
     match=3
+    [ngroup_future]
+    name=_("?nationgroup:Future")
+    match=2
+    [ngroup_equestrian]
+    name=_("?nationgroup:Equestrian")
+    match=2
 
 ###### At the bottom:
 
