@@ -17,15 +17,29 @@ Nations from Robert E. Howard's Hyborian Era, known from the Conan the Cimmerian
     Stygian
     Zamorian
 
-### Other
+### MLP
 
     Pony
 
 ## Real-world
-
-    American - civilwar_nations to include various Native American nations and state-level subdivisions.
     Islamic State
     Romani
+    
+## Modified default
+    Albanian - add Romani as a civilwar_nation.
+    American - civilwar_nations to include various Native American nations and state-level subdivisions.
+    Bulgarian - add Romani as a civilwar_nation.
+    Iraqi - add the Islamic State as a civilwar_nation.
+    Macedonian - add Romani as a civilwar_nation.
+    Moldovan - add Romani as a civilwar_nation.
+    Montenegrin - add Romani as a civilwar_nation.
+    Pictish - add to Thurian group.
+    Romanian - add Romani as a civilwar_nation.
+    Serbian - add Romani as a civilwar_nation.
+    Slovakian - add Romani as a civilwar_nation.
+    Syrian - add the Islamic State as a civilwar_nation.
+    Turkish - add Romani as a civilwar_nation.
+    
 
 # Installation
 
