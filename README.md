@@ -10,16 +10,30 @@ Nations from Robert E. Howard's Hyborian Era, known from the Conan the Cimmerian
 
     Aquilonian
     Bossonian
+    Brythunian
+    Cimmerian
     Doomite - the followers of Thulsa Doom from the 1982 John Milius movie.
     Gundermen
+    Hyperborean
     Kothian
+    Nemedian
     Poitainian
     Stygian
+    Taurani
+    Turanian
     Zamorian
+    Zingaran
 
 ### MLP
-
+    
+    Crystal Empire
+    Griffon
     Pony
+    
+### Tiberian
+    
+    Brotherhood of Nod
+    Global Defense Initiative
 
 ## Real-world
     Islamic State
@@ -63,68 +77,124 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
 
     *include "nation/aquilonian.ruleset"
     *include "nation/bossonian.ruleset"
+    *include "nation/brythunian.ruleset"
+    *include "nation/cimmerian.ruleset"
+    *include "nation/crystal.ruleset"
     *include "nation/doomite.ruleset"
+    *include "nation/gdi.ruleset"
+    *include "nation/griffon.ruleset"
     *include "nation/gundermen.ruleset"
+    *include "nation/hyperborean.ruleset"
     *include "nation/islamicstate.ruleset"
     *include "nation/kothian.ruleset"
+    *include "nation/nemedian.ruleset"
+    *include "nation/nod.ruleset"
     *include "nation/poitainian.ruleset"
     *include "nation/pony.ruleset"
     *include "nation/romani.ruleset"
     *include "nation/stygian.ruleset"
+    *include "nation/taurani.ruleset"
+    *include "nation/turanian.ruleset"
     *include "nation/zamorian.ruleset"
-
+    *include "nation/zingaran.ruleset"
+    
 #### …/data/misc/flags.spec
 
     "f.aquilonian", "flags/aquilonian"
     "f.bossonian", "flags/bossonian"
+    "f.brythunian", "flags/brythunian"
+    "f.cimmerian", "flags/cimmerian"
+    "f.crystal", "flags/crystal"
     "f.doomite", "flags/doomite"
+    "f.gdi", "flags/gdi"
+    "f.griffon", "flags/griffon"
     "f.gundermen", "flags/gundermen"
+    "f.hyperborean", "flags/hyperborean"
     "f.islamicstate", "flags/islamicstate"
     "f.kothian", "flags/kothian"
+    "f.nemedian", "flags/nemedian"
+    "f.nod", "flags/nod"
     "f.poitainian", "flags/poitainian"
     "f.pony", "flags/pony"
     "f.romani", "flags/romani"
     "f.stygian", "flags/stygian"
+    "f.taurani", "flags/taurani"
+    "f.turanian", "flags/turanian"
     "f.zamorian", "flags/zamorian"
-      
+    "f.zingaran", "flags/zingaran"
+    
 #### …/data/misc/shields.spec
 
     "f.shield.aquilonian", "flags/aquilonian-shield"
     "f.shield.bossonian", "flags/bossonian-shield"
+    "f.shield.brythunian", "flags/brythunian-shield"
+    "f.shield.cimmerian", "flags/cimmerian-shield"
+    "f.shield.crystal", "flags/crystal-shield"
     "f.shield.doomite", "flags/doomite-shield"
+    "f.shield.gdi", "flags/gdi-shield"
+    "f.shield.griffon", "flags/griffon-shield"
     "f.shield.gundermen", "flags/gundermen-shield"
+    "f.shield.hyperborean", "flags/hyperborean-shield"
     "f.shield.islamicstate", "flags/islamicstate-shield"
     "f.shield.kothian", "flags/kothian-shield"
+    "f.shield.nemedian", "flags/nemedian-shield"
+    "f.shield.nod", "flags/nod-shield"
     "f.shield.poitainian", "flags/poitainian-shield"
     "f.shield.pony", "flags/pony-shield"
     "f.shield.romani", "flags/romani-shield"
     "f.shield.stygian", "flags/stygian-shield"
+    "f.shield.taurani", "flags/taurani-shield"
+    "f.shield.turanian", "flags/turanian-shield"
     "f.shield.zamorian", "flags/zamorian-shield"
-
+    "f.shield.zingaran", "flags/zingaran-shield"
+    
 #### …/data/misc/flags-large.spec
 
     "f.aquilonian", "flags/aquilonian-large"
     "f.bossonian", "flags/bossonian-large"
+    "f.brythunian", "flags/brythunian-large"
+    "f.cimmerian", "flags/cimmerian-large"
+    "f.crystal", "flags/crystal-large"
     "f.doomite", "flags/doomite-large"
+    "f.gdi", "flags/gdi-large"
+    "f.griffon", "flags/griffon-large"
     "f.gundermen", "flags/gundermen-large"
+    "f.hyperborean", "flags/hyperborean-large"
     "f.kothian", "flags/kothian-large"
+    "f.nemedian", "flags/nemedian-large"
+    "f.nod", "flags/nod-large"
     "f.islamicstate", "flags/islamicstate-large"
     "f.poitainian", "flags/poitainian-large"
     "f.pony", "flags/pony-large"
     "f.romani", "flags/romani-large"
     "f.stygian", "flags/stygian-large"
+    "f.taurani", "flags/taurani-large"
+    "f.turanian", "flags/turanian-large"
     "f.zamorian", "flags/zamorian-large"
+     "f.zingaran", "flags/zingaran-large"
+     
 #### …/data/misc/shields-large.spec
 
     "f.shield.aquilonian", "flags/aquilonian-shield-large"
     "f.shield.bossonian", "flags/bossonian-shield-large"
+    "f.shield.brythunian", "flags/brythunian-shield-large"
+    "f.shield.cimmerian", "flags/cimmerian-shield-large"
+    "f.shield.crystal", "flags/crystal-shield-large"
     "f.shield.doomite", "flags/doomite-shield-large"
+    "f.shield.gdi", "flags/gdi-shield-large"
+    "f.shield.griffon", "flags/griffon-shield-large"
     "f.shield.gundermen", "flags/gundermen-shield-large"
+    "f.shield.hyperborean", "flags/hyperborean-shield-large"
     "f.shield.islamicstate", "flags/islamicstate-shield-large"
     "f.shield.kothian", "flags/kothian-shield-large"
+    "f.shield.nemedian", "flags/nemedian-shield-large"
+    "f.shield.nod", "flags/nod-shield-large"
     "f.shield.poitainian", "flags/poitainian-shield-large"
     "f.shield.pony", "flags/pony-shield-large"
     "f.shield.romani", "flags/romani-shield-large"
     "f.shield.stygian", "flags/stygian-shield-large"
+    "f.shield.taurani", "flags/taurani-shield-large"
+    "f.shield.turanian", "flags/turanian-shield-large"
     "f.shield.zamorian", "flags/zamorian-shield-large"
+    "f.shield.zingaran", "flags/zingaran-shield-large"
     
