@@ -2,7 +2,7 @@
 
 name=_("Vanir")
 plural=_("?plural:Vanir")
-groups="Imaginary"
+groups="Thurian"
 legend = _("The Vanir are people of the Nordics stock. \
 They often battled against their cousins, the Aesir.")
 

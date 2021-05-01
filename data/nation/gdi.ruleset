@@ -1,0 +1,55 @@
+[nation_gdi]
+
+name=_("Global Defense Initiative")
+plural=_("?plural:GDI Forces")
+groups="Future", "Modern","Imaginary"
+legend = _("The Global Defense Initiative (abbreviated as GDI) is the global government of Earth. \
+It was founded in accordance with the United Nations Global Defense Act (UNGDA), on the date of \
+12 October 1995,as a united military force for global peacekeeping. The GDI's initial goal \
+was to preserve world order by combating global terrorism, epitomized by its nemesis the \
+Brotherhood of Nod, but eventually outgrew its original mandate to become a world government..")
+
+leaders = {
+ "name",                                "sex"
+ "Mark Jamison Sheppard",        "Male" 
+ "James Solomon",        "Male" 
+  "Paul Cortez",        "Male" 
+    "Zachary Harkin",        "Male" 
+	  "Jack Granger",        "Male" 
+	  	  "Wesley Riggs",        "Male" 
+}
+
+ruler_titles = {
+ "government",      "male_title",           "female_title"
+"Monarchy",        _("General %s"), _("General %s")
+ "Anarchy",        _("General %s"),             _("?female:General %s")
+ "Democracy",       _("General %s"),      _("?female:General %s")
+ "Fundamentalism",  _("General %s"),     _("?female:General %s")
+  "Communism",       _("General %s"), _("?female:General %s")
+
+}
+
+flag="gdi"
+flag_alt = "un"
+style = "european"
+
+init_techs=""
+init_buildings=""
+init_units=""
+conflicts_with=""
+civilwar_nations= "american", "austrian", "belgian", "bulgarian", "czech", "cypriot",
+               "danish", "estonian", "finnish", "french", "german",
+               "hellenic", "hungarian", "irish", "italian", "latvian",
+               "lithuanian", "luxembourgish", "maltese", "dutch", "polish",
+               "portuguese", "romanian", "slovakian", "slovenian",
+               "spanish", "swedish", "british","argentine", "bolivian", "brazilian", "chilean", "colombian",
+ "ecuadorian", "guyanese", "paraguayan", "peruvian", "surinamese", "uruguayan", "venezuelan",
+ "chinese","russian","mexican","canadian","saudi","turkish","New Zealand","japanese","South Korean", "Brotherhood of Nod", "european"
+
+
+cities =
+ "Washington", 
+ "New York",
+
+
+

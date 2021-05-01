@@ -2,7 +2,7 @@
 
 name=_("Hyrkanian")
 plural=_("?plural:Hyrkanians")
-groups="Imaginary"
+groups="Thurian"
 legend=_("Hyrkanians are nomadic horsemen, cruel and \
 ruthless, whose violent rampages across the steppe are still spoken \
 of in frightened voices, as if the brutal conquests had happened but \
@@ -30,7 +30,7 @@ init_techs=""
 init_buildings=""
 init_units=""
 conflicts_with=""
-civilwar_nations = "cossack", "slavic"
+civilwar_nations = "turanian","cossack", "slavic"
 
 cities =
 "Balkhana",
@@ -46,4 +46,5 @@ cities =
 "Dimmorz",
 "Sythia",
 "Vidara"
+
 

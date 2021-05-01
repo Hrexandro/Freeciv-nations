@@ -2,7 +2,7 @@
 
 name=_("Shemite")
 plural=_("?plural:Shemites")
-groups="Imaginary"
+groups="Thurian"
 legend=_("Shem is primarily a land of deserts,\
 though there are more fertile lands in the north and west. \
 The Shemites have the reputation of liars. The Shemites are usually tribal in nature.\

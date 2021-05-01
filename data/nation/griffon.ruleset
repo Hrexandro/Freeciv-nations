@@ -1,0 +1,43 @@
+[nation_griffon]
+
+name=_("Griffon")
+plural=_("?plural:Griffons")
+groups="Imaginary", "Equestrian"
+legend=_("Land of the Griffons.")
+
+
+leaders = {
+ "name",            "sex"
+ "Grover",    "Male"
+ "Guto",    "Male"
+
+}
+
+ruler_titles = {
+ "government",      "male_title",              "female_title"
+
+}
+
+flag="griffon"
+flag_alt = "-"
+style = "celtic"
+
+init_techs=""
+init_buildings=""
+init_units=""
+civilwar_nations = "equestrian"
+
+cities =
+"Griffonstone",
+"Coalfall",
+"Gale",
+"Solarspike",
+"Stone Highland",
+"Wohnsitz",
+"Griffonia",
+"Eyrie",
+"Griffonheart",
+"Greifswald",
+"Griffindor"
+
+

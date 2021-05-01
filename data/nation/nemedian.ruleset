@@ -1,0 +1,49 @@
+[nation_nemedian]
+
+name=_("Nemedian")
+plural=_("?plural:Nemedians")
+groups="Thurian"
+legend = _("Nemedia is the second great kingdom of the \
+Hyborians, technologically and economically superior to the \
+other Hyborian nations save Aquilonia. Nemedia’s culture \
+is similar to Aquilonia’s, although the Nemedians emphasise \
+feudal bonds more and personal freedoms less. Still, Nemedia \
+is well regarded for scholastic and intellectual freedom – the \
+greatest historians, the most famous philosophers and the \
+pinnacle of powerful orators in the West are Nemedians. \")
+
+leaders = {
+ "name",                                "sex"
+         "Tarascus",        "Male" 
+         "Nimed",        "Male" 
+}
+
+ruler_titles = {
+ "government",      "male_title",           "female_title"
+ "Anarchy",        _("Usurper %s"),             _("?female:Usurper %s")
+}
+
+flag="nemedian"
+flag_alt = "-"
+style = "European"
+
+init_techs=""
+init_buildings=""
+init_units=""
+conflicts_with=""
+civilwar_nations="aquilonian", "gundermen","bossonian", "poitainian"
+
+cities =
+"Belverus",
+"Numalia",
+ "Hanumar",
+ "Edram",
+ "Dinander",
+ "Tor",
+ "Varakiel (swamp)",
+ "Darkwood (forest)",
+ "Urlaub (river)"
+
+
+
+

@@ -1,0 +1,62 @@
+[nation_crystalempire]
+
+name=_("Crystal Empire")
+plural=_("?plural:Crystal Ponies")
+groups="Imaginary", "Equestrian"
+legend=_("The Crystal Empire is the home of crystal ponies.")
+
+
+leaders = {
+ "name",            "sex"
+ "Cadance",         "Female"
+ "Shining Armor",    "Male"
+ "Sombra",    "Male"
+}
+
+ruler_titles = {
+ "government",      "male_title",              "female_title"
+ "Monarchy",       _("King %s"),                 _("Princess %s")
+ "Despotism",       _("Commander %s"),             _("?female:Commander %s")
+ "Democracy",       _("Chancellor %s"),             _("?female:Chancellor %s")
+ "Republic",       _("Chancellor %s"),             _("?female:Chancellor %s")
+}
+
+flag="crystal"
+flag_alt = "-"
+style = "classical"
+
+init_techs=""
+init_buildings=""
+init_units=""
+civilwar_nations = "equestrian"
+
+cities =
+"Crystal City",
+"Crystal Mountains (mountains)",
+"Angelless Forest",
+"Agate Fields",
+"Aquivitae Creeks",
+"Archer Field",
+"East Crystal Mountains",
+"Eloll Tundra",
+"Emerald Piedmont",
+"Evergreen",
+"Feldspar Fields",
+"Frozen Butterfly Forest",
+"Heartswarming Field",
+"Jade Hills",
+"Mi Amore Plains",
+"Milky Plain",
+"Mount Everhoof",
+"Quartz Piedmont",
+"Rainbow Falls",
+"Selenite Divide",
+"Shiny Bound",
+"Skyrock Grounds",
+"Umbrum Cage",
+"Yak Range",
+"Crystal Mines",
+"Crystal Farms",
+"Crystallicum"
+
+

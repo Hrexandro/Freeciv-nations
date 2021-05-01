@@ -1,7 +1,7 @@
 [nation_islamicstate]
 
 name=_("Islamic State")
-plural=_("?plural:Islamist")
+plural=_("?plural:Islamists")
 groups="Modern", "Asian"
 legend=_("The Islamic State in Iraq and Syria is a terrorist group\
  and an unrecognized proto-state, organized around a Salafi jihadist doctrine.")
@@ -21,7 +21,7 @@ ruler_titles = {
 }
 
 flag="islamicstate"
-flag_alt = "arab"
+flag_alt = "saudi"
 style = "Babylonian"
 
 init_techs=""

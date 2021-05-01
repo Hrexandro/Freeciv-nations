@@ -1,0 +1,56 @@
+[nation_zingaran]
+
+name=_("Zingaran")
+plural=_("?plural:Zingarans")
+groups="Thurian"
+legend = _("A non-Hyborian nation situated south of \
+the Bossonian Marches of Aquilonia and Pictland,\
+ west of Poitain and Ophir, and north of the panhandle of Argos.")
+
+leaders = {
+ "name",                                "sex"
+         "Ferdrugo de Ramiro",        "Male" 
+         "Rimanendo",        "Male" 
+		         "Olivero",        "Male" 
+		          "Mordermi",        "Male" 
+				  		          "Chabela",        "Female" 
+}
+
+ruler_titles = {
+ "government",      "male_title",           "female_title"
+ "Anarchy",        _("Usurper %s"),             _("?female:Usurper %s")
+}
+
+flag="zingaran"
+flag_alt = "-"
+style = "European"
+
+init_techs=""
+init_buildings=""
+init_units=""
+conflicts_with=""
+civilwar_nations="aquilonian", "gundermen","bossonian", "poitainian"
+
+cities =
+"Kordava",
+"Jerida",
+"Cascan",
+"Castillia",
+"Guarralid",
+"Hispan",
+"Icaria",
+"Rabiria",
+"Karnemet",
+"Sadoria",
+"Korvela",
+"Torture Rock",
+"Korzetta",
+"Trallibes",
+"Kova",
+"Valbroso",
+"Yorkin",
+"Zingg Valley"
+
+
+
+

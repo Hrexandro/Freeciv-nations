@@ -6,7 +6,7 @@ groups="Imaginary"
 legend = _("The Gundermen are a race of pure Hyborian stock\
  Gunderland was once a separate kingdom, but was incorporated\
  into Aquilonia, less by conquest than agreement. Gunderland\
- is famed for its disciplined and valiant pikemen")
+ is famed for its disciplined and valiant pikemen.")
 
 leaders = {
  "name",                                "sex"
@@ -28,7 +28,7 @@ init_techs=""
 init_buildings=""
 init_units=""
 conflicts_with=""
-civilwar_nations="aquilonian", "bossonian", "helvetian"
+civilwar_nations="bossonian","aquilonian", "poitainian"
 
 cities =
 "Gunder",

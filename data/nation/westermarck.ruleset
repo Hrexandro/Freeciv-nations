@@ -2,7 +2,7 @@
 
 name=_("Westermarck")
 plural=_("?plural:Westermarckians")
-groups="Imaginary"
+groups="Thurian"
 legend = _("Westermarck is a frontier region of Aquilonia\
  established on the land wrestled away from the wild Picts.")
 

@@ -42,6 +42,12 @@ leaders = {
  "Lyndon B. Johnson",           "Male"
  "Richard Nixon",               "Male"
  "Ronald Reagan",               "Male"
+ "Joe Biden",               "Male"
+  "Barack Obama",               "Male"
+  "Donald Trump",               "Male"
+	 "Bernie Sanders",               "Male"
+	  "Kamala Harris",               "Male"
+	   "Hillary Clinton",               "Female"
 }
 
 ruler_titles = {

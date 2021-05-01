@@ -2,7 +2,7 @@
 
 name=_("Aesir")
 plural=_("?plural:Aesir")
-groups="Imaginary"
+groups="Thurian"
 legend = _("The people of Asgard relish battle, \
 but only to loot and pillage, not as means of expanding their borders.")
 

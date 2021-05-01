@@ -1,0 +1,55 @@
+[nation_cimmerian]
+
+name=_("Cimmerian")
+plural=_("?plural:Cimmerians")
+groups="Thurian"
+legend = _("Cimmerians were tall and powerfully built ferocious savages\
+ and barbarians, with black hair and blue or grey eyes. \
+Known for their strength and ferocity throughout the western world, \
+the Cimmerians are barbarian tribesmen to whom war is the only known way of life.")
+
+leaders = {
+ "name",                                "sex"
+ "Conan",        "Male" 
+ "Corin",        "Male" 
+  "Mara",        "Female" 
+    "Greshan",        "Female" 
+	 "Fenrik",        "Male" 
+	  "Chamta",        "Male" 
+
+}
+
+ruler_titles = {
+ "government",      "male_title",           "female_title"
+
+}
+
+flag="cimmerian"
+flag_alt = "-"
+style = "Celtic"
+
+init_techs=""
+init_buildings=""
+init_units=""
+conflicts_with=""
+civilwar_nations="aesir", "vanir", "gaelic", "aquilonian", "bossonian", "gundermen", "pictish"
+
+cities =
+"Canach",
+"Nachta",
+"Galla",
+"Murrogh",
+"Raeda",
+"Tunog",
+"Ben Morgh (mountains)",
+"Field of the Chiefs",
+"Darkwolf",
+"Grey Bear",
+"Black Wolf",
+"Black Owl",
+"Ice Leopard"
+
+
+
+
+

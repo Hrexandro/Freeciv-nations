@@ -1,0 +1,36 @@
+[nation_taurani]
+
+name=_("Taurani")
+plural=_("?plural:Taurani")
+groups="Thurian"
+legend = _("Tauran is a province of Aquilonia, it\
+ is a land of open groves and pastures \
+whose people dwell in thatched cottages and hunt wildlife.")
+
+leaders = {
+ "name",                                "sex"
+ "Balthus",        "Male" 
+
+}
+
+ruler_titles = {
+ "government",      "male_title",           "female_title"
+"Monarchy",        _("Prince %s"), _("Princess %s")
+ "Anarchy",        _("Usurper %s"),             _("?female:Usurper %s")
+}
+
+flag="taurani"
+flag_alt = "-"
+style = "European"
+
+init_techs=""
+init_buildings=""
+init_units=""
+conflicts_with=""
+civilwar_nations="aquilonian", "gundermen","bossonian", "poitainian"
+
+cities =
+"Taurum"
+
+
+

@@ -2,7 +2,7 @@
 
 name=_("Khorajan")
 plural=_("?plural:Khorajans")
-groups="Imaginary"
+groups="Thurian"
 legend=_("Khoraja is country has been carved \
 out of Shemite lands by the swords of Kothic adventurers.")
 
@@ -19,9 +19,9 @@ ruler_titles = {
   "Anarchy",        _("Usurper %s"),             _("?female:Usurper %s")
 
 }
-flag="khoraja"
+flag="khorajan"
 flag_alt = "-"
-style = "Babylonian"
+style = "Classical"
 
 init_techs=""
 init_buildings=""

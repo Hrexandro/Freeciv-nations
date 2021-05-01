@@ -2,13 +2,13 @@
 
 name=_("Bossonian")
 plural=_("?plural:Bossonians")
-groups="Imaginary"
+groups="Thurian"
 legend = _("The Bossonians are descendants of aborigines and Hyborians,\
  they are famed archers, hardened by constant battles against the Picts.")
 
 leaders = {
  "name",                                "sex"
- "Gromel",        "Male" ;add generic huborian names
+ "Gromel",        "Male" 
 
 }
 
@@ -26,23 +26,12 @@ init_techs=""
 init_buildings=""
 init_units=""
 conflicts_with=""
-civilwar_nations="pictish", "briton","breton", "welsh", "cornish","aquilonian", "gundermen"
+civilwar_nations="pictish", "briton", "welsh", "cornish","aquilonian", "gundermen","roman", "frankish", "sabine", "samnite", "etruscan", "bosporan"
 
 cities =
 "Bossonia",
-"Stone Hill",
-"Westermarck", ;perhaps separate, for now the towns are added to bossonia
-"Oriskonie", ;provinces and towns of Westermarck, add to Westermarck if separated as a possible nation
-"Conawaga",
-"Scandaga", ;capital of Conawaga
-"Schohira",
-"Thenitea",
-"Coyaga",
-"Schondara",
-"Fort Kwanyara",
-"Thandara",
-"Conajohara",
-"Velitrium"
+"Stone Hill"
+
 
 
 

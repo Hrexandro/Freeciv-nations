@@ -1,0 +1,57 @@
+[nation_brythunian]
+
+name=_("Brythunian")
+plural=_("?plural:Brythunians")
+groups="Thurian"
+legend = _("Brythunia was one the Hyborian Kingdoms,\
+ though not a very unified one. A single monarch\
+ maintained nominal authority over a large number \
+ of autonomous cities and noble domains. The nobility \
+ in fact prided itself in being able to restrict royal authority. \
+ Brythunians had long tried to establish their country was a \
+ regional power, but their lack of unity left them overshadowed \
+ by the better-organized Aquilonia and Nemedia.")
+
+leaders = {
+ "name",                                "sex"
+ "Eldran",        "Male" 
+ "Khullan",        "Male" 
+  "Clewyn",        "Male" 
+   "Typhas",        "Male" 
+   "Brian",        "Male" 
+      "Ludox",        "Male" 
+         "Thrine",        "Female" 
+		       "Throll",        "Male" 
+}
+
+ruler_titles = {
+ "government",      "male_title",           "female_title"
+ "Anarchy",        _("Usurper %s"),             _("?female:Usurper %s")
+}
+
+flag="taurani"
+flag_alt = "-"
+style = "European"
+
+init_techs=""
+init_buildings=""
+init_units=""
+conflicts_with=""
+civilwar_nations="aquilonian", "gundermen","bossonian", "poitainian"
+
+cities =
+"Pirogia",
+"Sargossa",
+"Leng",
+"Berthalia",
+"Charnina",
+"Innasfaln",
+"Kelbaza",
+"Potrebia",
+"Shihar",
+"Sodgrum",
+"Urbander",
+"Yarvash"
+
+
+

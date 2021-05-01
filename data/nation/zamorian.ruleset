@@ -1,6 +1,6 @@
 [nation_zamorian]
 
-name=_("Zamora")
+name=_("Zamorian")
 plural=_("?plural:Zamorians")
 groups="Imaginary"
 legend=_("Zamora is an ancient and decadent culture\
@@ -50,7 +50,6 @@ cities =
  "Komath",
  "Elika",
  "Zucarla",
- "Innasfaln",
  "Rinjaruin",
  "Amanara",
  "Karatas",

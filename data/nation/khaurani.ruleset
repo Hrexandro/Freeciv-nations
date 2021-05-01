@@ -2,7 +2,7 @@
 
 name=_("Khaurani")
 plural=_("?plural:Khaurani")
-groups="Imaginary"
+groups="Thurian"
 legend=_("A small border kingdom between the eastern \
 tip of Koth and the Eastern Desert region of the Zuagirs.\
  A matriarchal queendom. The foremother of the dynasty\ 
@@ -22,9 +22,9 @@ ruler_titles = {
   "Anarchy",        _("Usurper %s"),             _("?female:Usurper %s")
 
 }
-flag="khoraja"
+flag="khaurani"
 flag_alt = "-"
-style = "Babylonian"
+style = "Classical"
 
 init_techs=""
 init_buildings=""
@@ -33,5 +33,11 @@ conflicts_with=""
 civilwar_nations = "kothian", "shemite"
 
 cities =
-"Khauran"
+"Khauran",
+"Akrel",
+"Kandala",
+"Ketha",
+"Ekinari",
+"Omri",
+"Zardas"
 

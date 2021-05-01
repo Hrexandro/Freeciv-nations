@@ -1,8 +1,8 @@
 [nation_pony]
 
-name=_("Equestria")
+name=_("Equestrian")
 plural=_("?plural:Ponies")
-groups="Imaginary"
+groups="Imaginary", "Equestrian"
 legend=_("Equestria is a kingdom inhabited by magical ponies\
 and other talking creatures, such as griffons and dragons.")
 
@@ -34,7 +34,7 @@ style = "European"
 init_techs=""
 init_buildings=""
 init_units=""
-civilwar_nations = "dryad", "werewolf", "chananean"
+civilwar_nations = "dryad", "werewolf", "chananean", "crystal empire", "griffon"
 
 cities =
 "Canterlot",
@@ -138,6 +138,5 @@ cities =
 "Thrace",
 "Agaricus Forest (forest)",
 "Yaket Range (mountains)",
-"Crystal Mountains (mountains)",
-"Crystal Empire"
+
 

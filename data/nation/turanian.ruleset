@@ -1,0 +1,95 @@
+[nation_turanian]
+
+name=_("Turanian")
+plural=_("?plural:Turanians")
+groups="Thurian"
+legend=_("Turan is a powerful empire established by Hyrkanians.")
+
+leaders = {
+ "name",                              "sex"
+  "Yildiz",                           "Male"
+  "Yezdigerd",                           "Male"
+
+
+
+}
+ruler_titles = {
+ "government",      "male_title",      "female_title"
+
+}
+
+flag="turanian"
+flag_alt = "-"
+style = "babylonian"
+
+init_techs=""
+init_buildings=""
+init_units=""
+conflicts_with=""
+civilwar_nations = "cossack", "hyrkanian", "stygian", "zamorian", "shemite"
+
+cities =
+"Aghrapur",
+"Sultanapur",
+"Yaralet",
+"Khorunsun",
+"Shahpur",
+"Vezek",
+"Akif",
+"Khawarism",
+"Secunderam",
+"Akrim",
+"Akrel",
+"Shan-e-Sorkh",
+"Makan-e-Mordan",
+"Akhlat",
+"Kharamun",
+"Nezvaya",
+"Xapur",
+"Zhurazi",
+"Al Azair",
+"Fort Ghori",
+"Alhmet",
+"Fort Wakla",
+"Aqaba",
+"Kherdpur",
+"Ashraf",
+"Khoraf",
+"Dimmorz",
+"Khorbhul",
+"Djemal",
+"Maypur",
+"Gharat",
+"Onagrul",
+"Rhamdan",
+"Sulimar",
+"Yukkub",
+"Zamboula",
+"Well of Adhmet",
+"Well of Harith"
+"Anshan"; Iranistani cities, to be made into a separate nation later
+"Bajkari",
+"Denizkenar",
+"Drujistan",
+"Kaklan",
+"Kushaf",
+"Venjipur",
+"Zariri",
+"Afghuli", ; Ghulistan tribes, to be made separate later
+"Dagozai",
+"Galzai",
+"Irakzai",
+"Khirguli",
+"Khirghiz",
+"Khurakzai",
+"Uzbak",
+"Wamadzi",
+"Wazuli",
+"Khurum",
+"Raktavashi",
+"Yimsha"
+"Zhaibar",
+"Jhelai",
+"Gurashah",
+"Jhumda"
+
