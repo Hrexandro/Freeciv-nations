@@ -1,0 +1,60 @@
+[nation_ape]
+
+name=_("Ape")
+plural=_("?plural:Apes")
+groups="Imaginary", "Future"
+legend = _("Ape's an Ape")
+
+leaders = {
+ "name",                                "sex"
+ "Zaius",        "Male" 
+ "Cornelius",        "Male" 
+  "Caesar",        "Male" 
+    "Ursus",        "Male" 
+	    "Urko",        "Male" 
+}
+
+ruler_titles = {
+ "government",      "male_title",           "female_title"
+
+}
+
+flag="ape"
+flag_alt = "-"
+style = "babylonian"
+
+init_techs=""
+init_buildings=""
+init_units=""
+conflicts_with=""
+civilwar_nations=""
+
+cities =
+"Central City",
+"Derkein",
+"Mak",
+"Venta",
+"Kaymak",
+"Borak",
+"Chalo",
+"Numai",
+"Ultimar",
+"Hathor",
+"Mikdoul",
+"Calima",
+"Ashlar",
+"Apetown",
+"Simian City",
+"Chimptopia",
+"Orangutania",
+"Gorillium",
+"Orang",
+"Rangatang",
+"Oakland",
+"Chimpan-A",
+"Chimpan-Z"
+
+
+
+
+

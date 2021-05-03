@@ -1,0 +1,46 @@
+[nation_ophirean]
+
+name=_("Ophirean")
+plural=_("?plural:Ophireans")
+groups="Thurian"
+legend = _("Ophir is the wealthiest of the Hyborian kingdoms. \
+It does not have the population or the agricultural base of \
+Aquilonia or Nemedia, but it has something of great value, gold mines.")
+
+leaders = {
+ "name",                                "sex"
+ "Amalrus",        "Male" 
+ "Moranthes II",        "Male" 
+  "Olivia",        "Female" 
+ "Marala",        "Female" 
+   "Ludovik",        "Male" 
+}
+
+ruler_titles = {
+ "government",      "male_title",           "female_title"
+ "Anarchy",        _("Usurper %s"),             _("?female:Usurper %s")
+}
+
+flag="ophirean"
+flag_alt = "-"
+style = "classical"
+
+init_techs=""
+init_buildings=""
+init_units=""
+conflicts_with=""
+civilwar_nations="aquilonian", "gundermen","bossonian", "poitainian"
+
+cities =
+"Ianthe",
+"Frosol",
+"Lodier",
+"Mecanta",
+"Terson",
+"Vendishan",
+"Theringo",
+"Shamu"
+
+
+
+

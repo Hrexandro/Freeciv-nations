@@ -1,0 +1,64 @@
+[nation_corinthian]
+
+name=_("Corinthian")
+plural=_("?plural:Corinthians")
+groups="Thurian"
+legend = _("A land of mountains and independent city-states \
+held together in a loose alliance, Corinthia's main claim to \
+fame is the fabled Road of Kings, which passes through her \
+central countryside. The western reaches contain rank after rank \
+of forested ridges, extending into the jagged walls of the Karpash Mountains.")
+
+leaders = {
+ "name",                                "sex"
+ "Zhenkri",        "Male" 
+ "Kassa",        "Female" 
+  "Kerbogha",        "Male" 
+ "Gywnella",        "Female" 
+   "Godrik",        "Male" 
+ "Yaila",        "Female" 
+}
+
+ruler_titles = {
+ "government",      "male_title",           "female_title"
+ "Anarchy",        _("Usurper %s"),             _("?female:Usurper %s")
+}
+
+flag="corinthian"
+flag_alt = "-"
+style = "classical"
+
+init_techs=""
+init_buildings=""
+init_units=""
+conflicts_with=""
+civilwar_nations="aquilonian", "gundermen","bossonian", "poitainian"
+
+cities =
+"Polopponi",
+"Anuphar",
+"Ezar Bar Q’um",
+"Athros",
+"Kamalla",
+"Atilleos",
+"Khumar Rhun",
+"Lanjau",
+"Menalos",
+"Limnae",
+"Mornstadinos",
+"Lonika",
+"Naplonia",
+"Nywenth La",
+"Vesci",
+"Zahmahn",
+"Khishtam",
+"Turio",
+"Donar",
+"Haraan",
+"Karpash",
+"Dodligia",
+"Bloddolk"
+
+
+
+

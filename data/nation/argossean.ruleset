@@ -1,0 +1,47 @@
+[nation_argossean]
+
+name=_("Argossean")
+plural=_("?plural:Argosseans")
+groups="Thurian"
+legend = _("Argos is one of the greatest commercial nations\
+ of the Hyborian Age, renowned for its maritime industry,\
+ master shipmen, and short, stocky sailors\
+ (reputedly the best in all the world).")
+
+leaders = {
+ "name",                                "sex"
+ "Ariostro",        "Male" 
+ "Milo",        "Male" 
+}
+
+ruler_titles = {
+ "government",      "male_title",           "female_title"
+ "Anarchy",        _("Usurper %s"),             _("?female:Usurper %s")
+}
+
+flag="argossean"
+flag_alt = "-"
+style = "classical"
+
+init_techs=""
+init_buildings=""
+init_units=""
+conflicts_with=""
+civilwar_nations="zingaran", "shemite"
+
+cities =
+"Messantia",
+"Athos",
+"Napolitos",
+"Skranos",
+"Venzia",
+"Zotoz",
+"Alimane",
+"Astar","
+"Khorotas",
+"Pallos",
+"Rabiria",
+"Tortage (ocean)"
+
+
+
