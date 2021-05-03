@@ -9,14 +9,17 @@ New nations you can add to Freeciv.
 Nations from Robert E. Howard's Hyborian Era, known from the Conan the Cimmerian stories. Their civilwar_nations include neighbours, subnations, as well as the real-world peoples that inspired or are supposed descendants of a given nation.
 
     Aquilonian
+    Argossean
     Bossonian
     Brythunian
     Cimmerian
+    Corinthian
     Doomite - the followers of Thulsa Doom from the 1982 John Milius movie.
     Gundermen
     Hyperborean
     Kothian
     Nemedian
+    Ophirean
     Poitainian
     Stygian
     Taurani
@@ -34,6 +37,10 @@ Nations from Robert E. Howard's Hyborian Era, known from the Conan the Cimmerian
     
     Brotherhood of Nod
     Global Defense Initiative
+    
+### Other
+
+    Ape - Planet of the Apes
 
 ## Real-world
     Islamic State
@@ -78,10 +85,13 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
 
 ###### At the bottom:
 
+    *include "nation/ape.ruleset"
     *include "nation/aquilonian.ruleset"
+    *include "nation/argossean.ruleset"
     *include "nation/bossonian.ruleset"
     *include "nation/brythunian.ruleset"
     *include "nation/cimmerian.ruleset"
+    *include "nation/corinthian.ruleset"
     *include "nation/crystal.ruleset"
     *include "nation/doomite.ruleset"
     *include "nation/gdi.ruleset"
@@ -92,6 +102,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
     *include "nation/kothian.ruleset"
     *include "nation/nemedian.ruleset"
     *include "nation/nod.ruleset"
+    *include "nation/ophirean.ruleset"
     *include "nation/poitainian.ruleset"
     *include "nation/pony.ruleset"
     *include "nation/romani.ruleset"
@@ -103,10 +114,13 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
     
 #### …/data/misc/flags.spec
 
+    "f.ape", "flags/ape"
     "f.aquilonian", "flags/aquilonian"
+    "f.argossean", "flags/argossean"
     "f.bossonian", "flags/bossonian"
     "f.brythunian", "flags/brythunian"
     "f.cimmerian", "flags/cimmerian"
+    "f.corinthian", "flags/corinthian"
     "f.crystal", "flags/crystal"
     "f.doomite", "flags/doomite"
     "f.gdi", "flags/gdi"
@@ -117,6 +131,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
     "f.kothian", "flags/kothian"
     "f.nemedian", "flags/nemedian"
     "f.nod", "flags/nod"
+    "f.ophirean", "flags/ophirean"
     "f.poitainian", "flags/poitainian"
     "f.pony", "flags/pony"
     "f.romani", "flags/romani"
@@ -128,10 +143,13 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
     
 #### …/data/misc/shields.spec
 
+    "f.shield.ape", "flags/ape-shield"
     "f.shield.aquilonian", "flags/aquilonian-shield"
+    "f.shield.argossean", "flags/argossean-shield"
     "f.shield.bossonian", "flags/bossonian-shield"
     "f.shield.brythunian", "flags/brythunian-shield"
     "f.shield.cimmerian", "flags/cimmerian-shield"
+    "f.shield.corinthian", "flags/corinthian-shield"
     "f.shield.crystal", "flags/crystal-shield"
     "f.shield.doomite", "flags/doomite-shield"
     "f.shield.gdi", "flags/gdi-shield"
@@ -142,6 +160,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
     "f.shield.kothian", "flags/kothian-shield"
     "f.shield.nemedian", "flags/nemedian-shield"
     "f.shield.nod", "flags/nod-shield"
+    "f.shield.ophirean", "flags/ophirean-shield"
     "f.shield.poitainian", "flags/poitainian-shield"
     "f.shield.pony", "flags/pony-shield"
     "f.shield.romani", "flags/romani-shield"
@@ -153,20 +172,24 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
     
 #### …/data/misc/flags-large.spec
 
+    "f.ape", "flags/ape-large"
     "f.aquilonian", "flags/aquilonian-large"
+    "f.argossean", "flags/argossean-large"
     "f.bossonian", "flags/bossonian-large"
     "f.brythunian", "flags/brythunian-large"
     "f.cimmerian", "flags/cimmerian-large"
+    "f.corinthian", "flags/corinthian-large"
     "f.crystal", "flags/crystal-large"
     "f.doomite", "flags/doomite-large"
     "f.gdi", "flags/gdi-large"
     "f.griffon", "flags/griffon-large"
     "f.gundermen", "flags/gundermen-large"
     "f.hyperborean", "flags/hyperborean-large"
+    "f.islamicstate", "flags/islamicstate-large"
     "f.kothian", "flags/kothian-large"
     "f.nemedian", "flags/nemedian-large"
     "f.nod", "flags/nod-large"
-    "f.islamicstate", "flags/islamicstate-large"
+    "f.ophirean", "flags/ophirean-large"
     "f.poitainian", "flags/poitainian-large"
     "f.pony", "flags/pony-large"
     "f.romani", "flags/romani-large"
@@ -178,10 +201,13 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
      
 #### …/data/misc/shields-large.spec
 
+    "f.shield.ape", "flags/ape-shield-large"
     "f.shield.aquilonian", "flags/aquilonian-shield-large"
+    "f.shield.argossean", "flags/argossean-shield-large"
     "f.shield.bossonian", "flags/bossonian-shield-large"
     "f.shield.brythunian", "flags/brythunian-shield-large"
     "f.shield.cimmerian", "flags/cimmerian-shield-large"
+    "f.shield.corinthian", "flags/corinthian-shield-large"
     "f.shield.crystal", "flags/crystal-shield-large"
     "f.shield.doomite", "flags/doomite-shield-large"
     "f.shield.gdi", "flags/gdi-shield-large"
@@ -192,6 +218,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
     "f.shield.kothian", "flags/kothian-shield-large"
     "f.shield.nemedian", "flags/nemedian-shield-large"
     "f.shield.nod", "flags/nod-shield-large"
+    "f.shield.ophirean", "flags/ophirean-shield-large"
     "f.shield.poitainian", "flags/poitainian-shield-large"
     "f.shield.pony", "flags/pony-shield-large"
     "f.shield.romani", "flags/romani-shield-large"
