@@ -1,0 +1,85 @@
+[nation_klackon]
+
+name=_("Klackon")
+plural=_("?plural:Klackons")
+groups="Imaginary"
+legend = _("Klackons are an insectoid race living in hives.")
+
+leaders = {
+ "name",                                "sex"
+  "Kaxal",        "Female" 
+ "Qurtirqul",        "Female" 
+   "Ixitixl",        "Female" 
+ "K'kalak",        "Female"
+  "Fusca",        "Female"
+  "Claw",        "Male" 
+
+}
+
+ruler_titles = {
+ "government",      "male_title",           "female_title"
+
+}
+
+flag="klackon"
+flag_alt = "-"
+style = "babylonian"
+
+init_techs=""
+init_buildings=""
+init_units=""
+conflicts_with=""
+civilwar_nations=""
+
+cities =
+"Kholdan",
+"Fa-rul",
+"Niktock",
+"Ixtu",
+"Keltok",
+"Hsi-raz",
+"Cai-ru",
+"Katax",
+"Ni-aru",
+"Chu-wak",
+"Ty-go",
+"Aiym",
+"Tar-reash",	
+"Shen-khi",
+"Li-ray",	
+"Braxus",
+"Pangor",
+"Thirock",
+"Zho",
+"Tartz",
+"Rakutal",
+"Fomica",
+"Myrmica",
+"Messor",
+"Manica",
+"Camponotus",
+
+
+"Paraponera",
+"Monomorium",
+"Myrcidris",
+"Tetraponera",
+"Tetramorium",
+"Discothyrea",
+"Proceratium",
+"Bradoponera",
+"Myrmecia",
+"Apomyrma",
+
+
+"Prionomyrmex",
+"Nothomyrmecia",
+"Archimyrmex",
+"Avitomyrmex",
+"Macabeemyrma",
+"Ypresiomyrma",
+"Myrmeciites"
+"Pseudomyrmex",
+"Probolomyrmex"
+
+
