@@ -6,7 +6,7 @@ New nations you can add to Freeciv.
 
 ### Hyborian Age
 
-Nations from Robert E. Howard's Hyborian Era, known from the Conan the Cimmerian stories. Their civilwar_nations include neighbours, subnations, as well as the real-world peoples that inspired or are supposed descendants of a given nation.
+Nations from Robert E. Howard's Hyborian Era, known from the Conan the Cimmerian stories.
 
     Aquilonian
     Argossean
@@ -41,6 +41,7 @@ Nations from Robert E. Howard's Hyborian Era, known from the Conan the Cimmerian
 ### Other
 
     Ape - Planet of the Apes
+    Klackons
 
 ## Real-world
     Islamic State
@@ -52,7 +53,7 @@ Nations from Robert E. Howard's Hyborian Era, known from the Conan the Cimmerian
     Australian - add Brotherhood of Nod as a civilwar_nation.
     Bosnia - add Brotherhood of Nod as a civilwar_nation.
     Bulgarian - add Romani as a civilwar_nation.
-    Egyptian Arab - - add Brotherhood of Nod as a civilwar_nation.
+    Egyptian Arab - add Brotherhood of Nod as a civilwar_nation.
     Iraqi - add the Islamic State as a civilwar_nation.
     Macedonian - add Romani as a civilwar_nation.
     Moldovan - add Romani as a civilwar_nation.
@@ -99,6 +100,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
     *include "nation/gundermen.ruleset"
     *include "nation/hyperborean.ruleset"
     *include "nation/islamicstate.ruleset"
+    *include "nation/klackon.ruleset"
     *include "nation/kothian.ruleset"
     *include "nation/nemedian.ruleset"
     *include "nation/nod.ruleset"
@@ -128,6 +130,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
     "f.gundermen", "flags/gundermen"
     "f.hyperborean", "flags/hyperborean"
     "f.islamicstate", "flags/islamicstate"
+    "f.klackon", "flags/klackon"
     "f.kothian", "flags/kothian"
     "f.nemedian", "flags/nemedian"
     "f.nod", "flags/nod"
@@ -158,6 +161,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
     "f.shield.hyperborean", "flags/hyperborean-shield"
     "f.shield.islamicstate", "flags/islamicstate-shield"
     "f.shield.kothian", "flags/kothian-shield"
+    "f.shield.klackon", "flags/klackon-shield"
     "f.shield.nemedian", "flags/nemedian-shield"
     "f.shield.nod", "flags/nod-shield"
     "f.shield.ophirean", "flags/ophirean-shield"
@@ -187,6 +191,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
     "f.hyperborean", "flags/hyperborean-large"
     "f.islamicstate", "flags/islamicstate-large"
     "f.kothian", "flags/kothian-large"
+    "f.klackon", "flags/klackon-large"
     "f.nemedian", "flags/nemedian-large"
     "f.nod", "flags/nod-large"
     "f.ophirean", "flags/ophirean-large"
@@ -216,6 +221,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
     "f.shield.hyperborean", "flags/hyperborean-shield-large"
     "f.shield.islamicstate", "flags/islamicstate-shield-large"
     "f.shield.kothian", "flags/kothian-shield-large"
+    "f.shield.klackon", "flags/klackon-shield-large"
     "f.shield.nemedian", "flags/nemedian-shield-large"
     "f.shield.nod", "flags/nod-shield-large"
     "f.shield.ophirean", "flags/ophirean-shield-large"
