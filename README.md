@@ -62,6 +62,7 @@ Nations from Robert E. Howard's Hyborian Era, known from the Conan the Cimmerian
     Romanian - add Romani as a civilwar_nation.
     Serbian - add Romani as a civilwar_nation.
     Slovakian - add Romani as a civilwar_nation.
+    Soviet - add Brotherhood of Nod as a civilwar_nation.
     Syrian - add the Islamic State as a civilwar_nation.
     Turkish - add Romani as a civilwar_nation.
     
