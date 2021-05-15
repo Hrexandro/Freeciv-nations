@@ -40,8 +40,9 @@ Nations from Robert E. Howard's Hyborian Era, known from the Conan the Cimmerian
     
 ### Other
 
+    Ants
     Ape - Planet of the Apes
-    Klackons
+    Klackons   
 
 ## Real-world
     Islamic State
@@ -87,6 +88,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
 
 ###### At the bottom:
 
+    *include "nation/ant.ruleset"
     *include "nation/ape.ruleset"
     *include "nation/aquilonian.ruleset"
     *include "nation/argossean.ruleset"
@@ -117,6 +119,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
     
 #### …/data/misc/flags.spec
 
+    "f.ant", "flags/ant"
     "f.ape", "flags/ape"
     "f.aquilonian", "flags/aquilonian"
     "f.argossean", "flags/argossean"
@@ -147,6 +150,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
     
 #### …/data/misc/shields.spec
 
+    "f.shield.ant", "flags/ant-shield"
     "f.shield.ape", "flags/ape-shield"
     "f.shield.aquilonian", "flags/aquilonian-shield"
     "f.shield.argossean", "flags/argossean-shield"
@@ -177,6 +181,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
     
 #### …/data/misc/flags-large.spec
 
+    "f.ant", "flags/ant-large"
     "f.ape", "flags/ape-large"
     "f.aquilonian", "flags/aquilonian-large"
     "f.argossean", "flags/argossean-large"
@@ -207,6 +212,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
      
 #### …/data/misc/shields-large.spec
 
+    "f.shield.ant", "flags/ant-shield-large"
     "f.shield.ape", "flags/ape-shield-large"
     "f.shield.aquilonian", "flags/aquilonian-shield-large"
     "f.shield.argossean", "flags/argossean-shield-large"
