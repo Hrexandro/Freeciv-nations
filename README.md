@@ -18,6 +18,7 @@ Nations from Robert E. Howard's Hyborian Era, known from the Conan the Cimmerian
     Gundermen
     Hyperborean
     Kothian
+    Kushite
     Nemedian
     Ophirean
     Poitainian
@@ -105,6 +106,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
     *include "nation/islamicstate.ruleset"
     *include "nation/klackon.ruleset"
     *include "nation/kothian.ruleset"
+    *include "nation/kushite.ruleset"
     *include "nation/nemedian.ruleset"
     *include "nation/nod.ruleset"
     *include "nation/ophirean.ruleset"
@@ -136,6 +138,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
     "f.islamicstate", "flags/islamicstate"
     "f.klackon", "flags/klackon"
     "f.kothian", "flags/kothian"
+    "f.kushite", "flags/kushite"
     "f.nemedian", "flags/nemedian"
     "f.nod", "flags/nod"
     "f.ophirean", "flags/ophirean"
@@ -166,6 +169,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
     "f.shield.hyperborean", "flags/hyperborean-shield"
     "f.shield.islamicstate", "flags/islamicstate-shield"
     "f.shield.kothian", "flags/kothian-shield"
+    "f.shield.kushite", "flags/kushite-shield"
     "f.shield.klackon", "flags/klackon-shield"
     "f.shield.nemedian", "flags/nemedian-shield"
     "f.shield.nod", "flags/nod-shield"
@@ -197,6 +201,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
     "f.hyperborean", "flags/hyperborean-large"
     "f.islamicstate", "flags/islamicstate-large"
     "f.kothian", "flags/kothian-large"
+    "f.kushite", "flags/kushite-large"
     "f.klackon", "flags/klackon-large"
     "f.nemedian", "flags/nemedian-large"
     "f.nod", "flags/nod-large"
@@ -228,6 +233,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
     "f.shield.hyperborean", "flags/hyperborean-shield-large"
     "f.shield.islamicstate", "flags/islamicstate-shield-large"
     "f.shield.kothian", "flags/kothian-shield-large"
+    "f.shield.kushite", "flags/kushite-shield-large"
     "f.shield.klackon", "flags/klackon-shield-large"
     "f.shield.nemedian", "flags/nemedian-shield-large"
     "f.shield.nod", "flags/nod-shield-large"
