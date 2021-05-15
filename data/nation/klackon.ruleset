@@ -11,9 +11,14 @@ leaders = {
  "Qurtirqul",        "Female" 
    "Ixitixl",        "Female" 
  "K'kalak",        "Female"
-  "Fusca",        "Female"
   "Claw",        "Male" 
-
+ "Kikitik",        "Female"
+   "Klaquan",        "Female"
+     "Xantak",        "Female"
+	      "Ezixl",        "Female"
+	 	      "Virzixl",        "Female"
+			  	      "Kaviq",        "Female"
+	
 }
 
 ruler_titles = {
@@ -22,14 +27,14 @@ ruler_titles = {
 }
 
 flag="klackon"
-flag_alt = "-"
+flag_alt = "ant"
 style = "babylonian"
 
 init_techs=""
 init_buildings=""
 init_units=""
-conflicts_with=""
-civilwar_nations=""
+conflicts_with="klackon"
+civilwar_nations="klackon"
 
 cities =
 "Kholdan",
@@ -52,34 +57,4 @@ cities =
 "Thirock",
 "Zho",
 "Tartz",
-"Rakutal",
-"Fomica",
-"Myrmica",
-"Messor",
-"Manica",
-"Camponotus",
-
-
-"Paraponera",
-"Monomorium",
-"Myrcidris",
-"Tetraponera",
-"Tetramorium",
-"Discothyrea",
-"Proceratium",
-"Bradoponera",
-"Myrmecia",
-"Apomyrma",
-
-
-"Prionomyrmex",
-"Nothomyrmecia",
-"Archimyrmex",
-"Avitomyrmex",
-"Macabeemyrma",
-"Ypresiomyrma",
-"Myrmeciites"
-"Pseudomyrmex",
-"Probolomyrmex"
-
-
+"Rakutal"
