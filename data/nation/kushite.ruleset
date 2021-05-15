@@ -1,0 +1,96 @@
+[nation_kushite]
+
+name=_("Kushite")
+plural=_("?plural:Kushites")
+groups="Thurian"
+legend = _("Northernmost of the Black Kingdoms situated south of Stygia. \
+There were Kushite villages along the shore of the Western Ocean, then a \
+band of thick forest. Inland stretched a savanna, which ended in eastern hills.\
+ Beyond this was the Southern Desert, only nominally part of the kingdom.")
+
+leaders = {
+ "name",                                "sex"
+ "Tananda",        "Female" 
+"Tuthmes",			"Male"
+ "Imbalayo",        "Male" ;Darfar
+  "Zula",        "Male" 
+   "Noutu Fah",       "Male"
+     "Gorulga",        "Male" ;Keshan
+   "Gwarunga",       "Male"
+   "Lalibeha",       "Male"  ;Punt
+   "Zaramba",       "Male"  ;Punt
+   "Nenaunir",       "Male";Zembabwei
+      "Mbega",       "Male"
+	     "Rimush",       "Male"
+		    "Dalboor",       "Male"
+}
+
+ruler_titles = {
+ "government",      "male_title",           "female_title"
+ "Anarchy",        _("Usurper %s"),             _("?female:Usurper %s")
+}
+
+flag="kushite"
+flag_alt = "-"
+style = "Tropical"
+
+init_techs=""
+init_buildings=""
+init_units=""
+conflicts_with=""
+civilwar_nations="stygian", "amazonian"
+
+cities =
+"Shumballa",
+"Zabhela",
+"Mandigo",
+"Baghirmi",
+"Dangola",
+"Khalis",
+"Zumba",
+"Bornu",
+"Tlazitlan"
+"Xuthal",
+"Xucha",
+
+
+"Gazal",;Darfar
+"Tibu"
+"Xuchotl",
+
+"Keshia",;Keshan
+"Alkmeenon",
+
+"Kassali",;Punt
+"Waputan",
+"Jukala",
+
+"Gamburu", ;Southern Kingdoms
+"Atlaia",
+"Bakalah",
+"Bamula",
+"Jihiji",
+"Kungado",
+"Wadai",
+"Zamballa",
+
+"Abombi",
+"Kulalo",
+"Suba",
+
+"Ghanata",
+"Tombalku",
+"Tibu",
+
+"Zembabwei",;Zembabwei
+
+"Yanyoga",
+"Jeluba",
+"Zuad",
+"Zarkheba",
+"Zikamba"
+
+
+
+
+
