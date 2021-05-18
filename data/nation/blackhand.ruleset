@@ -1,0 +1,44 @@
+[nation_blackhand]
+
+name=_("Black Hand")
+plural=_("?plural:Black Hand Followers")
+groups="Future", "Modern","Imaginary"
+legend = _("The Black Hand is an organization within the Brotherhood of Nod \
+formed with the blessing of Kane. It was originally founded as a covert unit \
+that enforced the teachings of the Brotherhood's charismatic leader and was \
+responsible for the Brotherhood's wet work. The cult has since grown to become \
+a powerful and influential religious group that, until recently, \
+had operated mostly in secret. ")
+
+leaders = {
+ "name",                                "sex"
+ "Gideon",        "Male" 
+ "Marcion",        "Male" 
+  "Anton Slavik",        "Male" 
+}
+
+ruler_titles = {
+ "government",      "male_title",           "female_title"
+"Monarchy",        _("Leader %s"), _("Leader %s")
+ "Anarchy",        _("General %s"),             _("?female:General %s")
+ "Democracy",       _("Leader %s"),      _("?female:Leader %s")
+ "Fundamentalism",  _("Grand Confessor %s"),     _("?female:Grand Confessor %s")
+  "Communism",       _("Leader %s"), _("?female:Leader %s")
+
+}
+
+flag="blackhand"
+flag_alt = "nod"
+style = "european"
+
+init_techs=""
+init_buildings=""
+init_units=""
+conflicts_with=""
+civilwar_nations= "brotherhood of nod"
+
+cities =
+"Montauk"
+
+
+

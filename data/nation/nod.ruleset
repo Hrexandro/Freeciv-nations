@@ -16,7 +16,10 @@ leaders = {
  "name",                                "sex"
  "Kane",        "Male" 
  "Hassan",        "Male" 
-  "Anton Slavik",        "Male" 
+"Kilian Qatar",        "Female" 
+ "Cesar Vega",        "Male" 
+ "Seth",        "Male" 
+ 
 }
 
 ruler_titles = {
@@ -37,20 +40,9 @@ init_techs=""
 init_buildings=""
 init_units=""
 conflicts_with=""
-civilwar_nations= "slovenian", "croatian", "bosnian-herzegovinian",
+civilwar_nations= "black hand", "slovenian", "croatian", "bosnian-herzegovinian",
  "serbian", "montenegrin", "macedonian", "albanian", "brazilian", "kosovar", "australian",
- "algerian", "angolan", "beninese", "bissau-guinean",
- "botswanan", "brazzaville-congolese", "burkinabe", "burundian",
- "cameroonian", "cape verdean", "central african", "comorian", "congolese",
- "djiboutian", "egyptian arab", "equatoguinean", "eritrean", "ethiopian",
- "gabonese", "gambian", "ghanaian", "guinean", "ivoirian", "kenyan",
- "lesothoan", "liberian", "libyan", "malagasy", "malawian", "malian",
- "mauritanian", "mauritian", "mozambican", "namibian", "nigerian",
- "nigerien", "rwandan", "senegalese", "santomean", "seychellois",
- "sierra leonean", "somali", "south african", "sudanese", "swazi",
- "tanzanian", "togolese", "tunisian", "ugandan", "sahrawi", "zambian",
- "zimbabwean","argentine", "bolivian", "brazilian", "chilean", "colombian",
- "ecuadorian", "guyanese", "paraguayan", "peruvian", "surinamese", "uruguayan", "venezuelan", "african", "south american"
+  "african", "south american"
 
 cities =
 "Sarajevo",
