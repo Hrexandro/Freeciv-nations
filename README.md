@@ -36,6 +36,7 @@ Nations from Robert E. Howard's Hyborian Era, known from the Conan the Cimmerian
     
 ### Tiberian
     
+    Black Hand
     Brotherhood of Nod
     Global Defense Initiative
     
@@ -94,6 +95,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
     *include "nation/aquilonian.ruleset"
     *include "nation/argossean.ruleset"
     *include "nation/bossonian.ruleset"
+    *include "nation/blackhand.ruleset"
     *include "nation/brythunian.ruleset"
     *include "nation/cimmerian.ruleset"
     *include "nation/corinthian.ruleset"
@@ -126,6 +128,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
     "f.aquilonian", "flags/aquilonian"
     "f.argossean", "flags/argossean"
     "f.bossonian", "flags/bossonian"
+    "f.blackhand", "flags/blackhand"
     "f.brythunian", "flags/brythunian"
     "f.cimmerian", "flags/cimmerian"
     "f.corinthian", "flags/corinthian"
@@ -158,6 +161,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
     "f.shield.aquilonian", "flags/aquilonian-shield"
     "f.shield.argossean", "flags/argossean-shield"
     "f.shield.bossonian", "flags/bossonian-shield"
+    "f.shield.blackhand", "flags/blackhand-shield"
     "f.shield.brythunian", "flags/brythunian-shield"
     "f.shield.cimmerian", "flags/cimmerian-shield"
     "f.shield.corinthian", "flags/corinthian-shield"
@@ -190,6 +194,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
     "f.aquilonian", "flags/aquilonian-large"
     "f.argossean", "flags/argossean-large"
     "f.bossonian", "flags/bossonian-large"
+    "f.blackhand", "flags/blackhand-large"
     "f.brythunian", "flags/brythunian-large"
     "f.cimmerian", "flags/cimmerian-large"
     "f.corinthian", "flags/corinthian-large"
@@ -222,6 +227,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
     "f.shield.aquilonian", "flags/aquilonian-shield-large"
     "f.shield.argossean", "flags/argossean-shield-large"
     "f.shield.bossonian", "flags/bossonian-shield-large"
+    "f.shield.blackhand", "flags/blackhand-shield-large"
     "f.shield.brythunian", "flags/brythunian-shield-large"
     "f.shield.cimmerian", "flags/cimmerian-shield-large"
     "f.shield.corinthian", "flags/corinthian-shield-large"
