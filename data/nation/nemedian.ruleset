@@ -10,13 +10,14 @@ is similar to Aquilonia’s, although the Nemedians emphasise \
 feudal bonds more and personal freedoms less. Still, Nemedia \
 is well regarded for scholastic and intellectual freedom – the \
 greatest historians, the most famous philosophers and the \
-pinnacle of powerful orators in the West are Nemedians. \")
+pinnacle of powerful orators in the West are Nemedians.")
 
 leaders = {
- "name",                                "sex"
-         "Tarascus",        "Male" 
-         "Nimed",        "Male" 
+ "name",                              "sex"
+ "Tarascus",                           "Male"
+ "Nimed",                           "Male"
 }
+
 
 ruler_titles = {
  "government",      "male_title",           "female_title"

@@ -21,7 +21,7 @@ ruler_titles = {
  "Republic",       _("Chancellor %s"),             _("?female:Chancellor %s")
 }
 
-flag="crystal"
+flag="crystalempire"
 flag_alt = "-"
 style = "classical"
 

@@ -66,8 +66,8 @@ cities =
 "Yukkub",
 "Zamboula",
 "Well of Adhmet",
-"Well of Harith"
-"Anshan"; Iranistani cities, to be made into a separate nation later
+"Well of Harith",
+"Anshan",; Iranistani cities, to be made into a separate nation later
 "Bajkari",
 "Denizkenar",
 "Drujistan",
@@ -87,7 +87,7 @@ cities =
 "Wazuli",
 "Khurum",
 "Raktavashi",
-"Yimsha"
+"Yimsha",
 "Zhaibar",
 "Jhelai",
 "Gurashah",

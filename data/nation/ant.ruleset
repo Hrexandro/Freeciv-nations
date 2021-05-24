@@ -7,7 +7,7 @@ legend = _("Ants are ants.")
 
 leaders = {
  "name",                                "sex"
-  "",        "Female" 
+  " ",        "Female" 
 
 	
 }
@@ -29,8 +29,8 @@ style = "babylonian"
 init_techs=""
 init_buildings=""
 init_units=""
-conflicts_with="ant"
-civilwar_nations="ant"
+conflicts_with="klackon"
+civilwar_nations="klackon"
 
 cities =
 "Fomica",
@@ -467,7 +467,7 @@ cities =
 "Avitomyrmex",
 "Macabeemyrma",
 "Ypresiomyrma",
-"Myrmeciites"
+"Myrmeciites",
 "Pseudomyrmex",
 "Probolomyrmex"
 
