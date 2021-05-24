@@ -31,7 +31,7 @@ init_techs=""
 init_buildings=""
 init_units=""
 conflicts_with=""
-civilwar_nations="aquilonian", "gundermen","bossonian", "poitainian"
+civilwar_nations="aesir", "cimmerian","brythunian", "turanian", "hyrkanian";,"finnish"
 
 cities =
 "Haloga",

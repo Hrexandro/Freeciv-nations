@@ -11,9 +11,7 @@ leaders = {
  "name",            "sex"
  "Celestia",       "Female"
  "Luna",           "Female"
- "Cadance",         "Female"
  "Twilight Sparkle","Female"
- "Shining Armor",    "Male"
  "Hurricane",       "Female"
  "Platinum",         "Female"
  "Puddinghead",      "Female"
@@ -34,7 +32,7 @@ style = "European"
 init_techs=""
 init_buildings=""
 init_units=""
-civilwar_nations = "dryad", "werewolf", "chananean", "crystal empire", "griffon"
+civilwar_nations = "crystal empire", "griffon","dryad", "werewolf", "chananean"
 
 cities =
 "Canterlot",
@@ -46,10 +44,8 @@ cities =
 "Rockville (mountains, hills)",
 "Trottingham",
 "Vanhoover",
-"Smokey Mountains (mountains)",
 "Tall Tale",
 "Ponhenge",
-"Foal Mountains (mountains)",
 "Galloping Gorge (mountains)",
 "Hollow Shades",
 "Saddle Lake",
@@ -72,6 +68,8 @@ cities =
 "Las Pegasus",
 "Rainbow Falls",
 "Hoofington",
+"Foal Mountains (mountains)",
+"Smokey Mountains (mountains)",
 "Tenochtitlan Basin (jungle)",
 "Ghastly Gorge (hills, mountains)",
 "Dodge Junction (desert)",

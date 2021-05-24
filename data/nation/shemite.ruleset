@@ -37,7 +37,7 @@ init_techs=""
 init_buildings=""
 init_units=""
 conflicts_with=""
-civilwar_nations = "stygian", "kothian"
+civilwar_nations = "stygian", "kothian","argossean","khorajan","khaurani","turanian"
 
 cities =
 "Asgalun (ocean)",

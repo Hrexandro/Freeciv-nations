@@ -31,7 +31,7 @@ init_techs=""
 init_buildings=""
 init_units=""
 conflicts_with=""
-civilwar_nations = "poitainian", "gundermen", "bossonian", "pictish"
+civilwar_nations = "poitainian", "gundermen", "bossonian", "pictish", "westermarck", "taurani", "cimmerian", "nemedian", "ophirean", "argossean","zingaran" ;,"frankish", "sabine", "samnite", "etruscan", "bosporan"
 
 cities =
  "Tarantia",
@@ -55,12 +55,10 @@ cities =
  "Couthan",
  "Karaban",
  "Kormon",
- "Schohira",
  "Lor",
  "Manara",
  "Venarium",
  "Pellia",
- "Tauran", ;the province, perhaps make a separate nation later
  "Thune",
  "Torh",
  "Border-Town" ;very generic, goes at the end

@@ -26,7 +26,7 @@ init_techs=""
 init_buildings=""
 init_units=""
 conflicts_with=""
-civilwar_nations="aquilonian",  "bossonian", "gundermen"
+civilwar_nations="aquilonian", "bossonian", "pictish", "westermarck", "taurani", "gundermen", "zingaran"
 
 cities =
 "Culario",

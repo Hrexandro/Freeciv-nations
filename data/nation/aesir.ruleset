@@ -28,7 +28,7 @@ init_techs=""
 init_buildings=""
 init_units=""
 conflicts_with=""
-civilwar_nations="viking", "vanir"
+civilwar_nations="viking", "vanir", "hyperborean", "cimmerian"
 
 cities =
 "Brutheim",

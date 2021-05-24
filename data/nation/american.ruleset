@@ -42,6 +42,7 @@ leaders = {
  "Lyndon B. Johnson",           "Male"
  "Richard Nixon",               "Male"
  "Ronald Reagan",               "Male"
+ "George W. Bush",               "Male"
  "Joe Biden",               "Male"
   "Barack Obama",               "Male"
   "Donald Trump",               "Male"
@@ -64,7 +65,7 @@ init_techs=""
 init_buildings=""
 init_units=""
 
-civilwar_nations = "confederate", "acadian", "californian", "apache", "cherokee", "choctaw", "chickasaw", "cree", "iroquois", "navajo", "texan", "sioux", "vermont"
+civilwar_nations = "confederate", "acadian", "californian", "apache", "cherokee", "choctaw", "chickasaw", "cree", "iroquois", "navajo", "texan", "sioux", "vermont", "ape"
 
 cities =
  "Washington (ocean, river, swamp, !desert)", 

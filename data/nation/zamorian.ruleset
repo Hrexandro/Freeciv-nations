@@ -30,7 +30,7 @@ init_techs=""
 init_buildings=""
 init_units=""
 conflicts_with=""
-civilwar_nations = "kothian","aquilonian","ukrainian","doomite","romani"
+civilwar_nations = "kothian","brythunian","doomite","romani" , "corinthian", "turanian"    ;,"ukrainian"
 
 cities =
  "Arenjun",
