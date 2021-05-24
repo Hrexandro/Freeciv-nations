@@ -45,6 +45,7 @@ Nations from Robert E. Howard's Hyborian Era, known from the Conan the Cimmerian
     Ants
     Ape - Planet of the Apes
     Klackons   
+    Meklar
 
 ## Real-world
     Islamic State
@@ -52,7 +53,7 @@ Nations from Robert E. Howard's Hyborian Era, known from the Conan the Cimmerian
     
 ## Modified default
     Albanian - add Romani as a civilwar_nation.
-    American - civilwar_nations to include various Native American nations and state-level subdivisions.
+    American - civilwar_nations to include various Native American nations and state-level subdivisions, more presidents.
     Australian - add Brotherhood of Nod as a civilwar_nation.
     Bosnia - add Brotherhood of Nod as a civilwar_nation.
     Bulgarian - add Romani as a civilwar_nation.
@@ -109,6 +110,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
     *include "nation/klackon.ruleset"
     *include "nation/kothian.ruleset"
     *include "nation/kushite.ruleset"
+    *include "nation/meklar.ruleset"
     *include "nation/nemedian.ruleset"
     *include "nation/nod.ruleset"
     *include "nation/ophirean.ruleset"
@@ -142,6 +144,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
     "f.klackon", "flags/klackon"
     "f.kothian", "flags/kothian"
     "f.kushite", "flags/kushite"
+    "f.meklar", "flags/meklar"
     "f.nemedian", "flags/nemedian"
     "f.nod", "flags/nod"
     "f.ophirean", "flags/ophirean"
@@ -175,6 +178,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
     "f.shield.kothian", "flags/kothian-shield"
     "f.shield.kushite", "flags/kushite-shield"
     "f.shield.klackon", "flags/klackon-shield"
+    "f.shield.meklar", "flags/meklar-shield"
     "f.shield.nemedian", "flags/nemedian-shield"
     "f.shield.nod", "flags/nod-shield"
     "f.shield.ophirean", "flags/ophirean-shield"
@@ -208,6 +212,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
     "f.kothian", "flags/kothian-large"
     "f.kushite", "flags/kushite-large"
     "f.klackon", "flags/klackon-large"
+    "f.meklar", "flags/meklar-large"
     "f.nemedian", "flags/nemedian-large"
     "f.nod", "flags/nod-large"
     "f.ophirean", "flags/ophirean-large"
@@ -241,6 +246,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
     "f.shield.kothian", "flags/kothian-shield-large"
     "f.shield.kushite", "flags/kushite-shield-large"
     "f.shield.klackon", "flags/klackon-shield-large"
+    "f.shield.meklar", "flags/meklar-shield-large"
     "f.shield.nemedian", "flags/nemedian-shield-large"
     "f.shield.nod", "flags/nod-shield-large"
     "f.shield.ophirean", "flags/ophirean-shield-large"
