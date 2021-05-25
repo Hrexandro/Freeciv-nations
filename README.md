@@ -88,7 +88,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
     match=2
     [ngroup_equestrian]
     name=_("?nationgroup:Equestrian")
-    match=2
+    match=3
 
 ###### At the bottom:
 
@@ -143,7 +143,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
 		"f.brythunian", "flags/brythunian"
 		"f.cimmerian", "flags/cimmerian"
 		"f.corinthian", "flags/corinthian"
-		"f.crystalempire", "flags/crystal"
+		"f.crystal", "flags/crystal"
 		"f.doomite", "flags/doomite"
 		"f.gdi", "flags/gdi"
 		"f.griffon", "flags/griffon"
@@ -184,7 +184,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
 		"f.shield.brythunian", "flags/brythunian-shield"
 		"f.shield.cimmerian", "flags/cimmerian-shield"
 		"f.shield.corinthian", "flags/corinthian-shield"
-		"f.shield.crystalempire", "flags/crystal-shield"
+		"f.shield.crystal", "flags/crystal-shield"
 		"f.shield.doomite", "flags/doomite-shield"
 		"f.shield.gdi", "flags/gdi-shield"
 		"f.shield.griffon", "flags/griffon-shield"
@@ -225,7 +225,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
 		"f.brythunian", "flags/brythunian-large"
 		"f.cimmerian", "flags/cimmerian-large"
 		"f.corinthian", "flags/corinthian-large"
-		"f.crystalempire", "flags/crystal-large"
+		"f.crystal", "flags/crystal-large"
 		"f.doomite", "flags/doomite-large"
 		"f.gdi", "flags/gdi-large"
 		"f.griffon", "flags/griffon-large"
@@ -266,7 +266,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
 		"f.shield.brythunian", "flags/brythunian-shield-large"
 		"f.shield.cimmerian", "flags/cimmerian-shield-large"
 		"f.shield.corinthian", "flags/corinthian-shield-large"
-		"f.shield.crystalempire", "flags/crystal-shield-large"
+		"f.shield.crystal", "flags/crystal-shield-large"
 		"f.shield.doomite", "flags/doomite-shield-large"
 		"f.shield.gdi", "flags/gdi-shield-large"
 		"f.shield.griffon", "flags/griffon-shield-large"
