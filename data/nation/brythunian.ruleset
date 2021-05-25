@@ -29,7 +29,7 @@ ruler_titles = {
  "Anarchy",        _("Usurper %s"),             _("?female:Usurper %s")
 }
 
-flag="taurani"
+flag="brythunian"
 flag_alt = "-"
 style = "European"
 

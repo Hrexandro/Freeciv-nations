@@ -2,7 +2,7 @@
 
 name=_("Zamorian")
 plural=_("?plural:Zamorians")
-groups="Imaginary"
+groups="Thurian"
 legend=_("Zamora is an ancient and decadent culture\
  The strange and mysterious Zamorians have a reputation\
  for deviousness and thievery.Although Zamora has a rich culture\

@@ -2,7 +2,7 @@
 
 name=_("Aquilonian")
 plural=_("?plural:Aquilonians")
-groups="Imaginary"
+groups="Thurian"
 legend=_("Aquilonia, known as 'the Flower of the West',\
  is the preeminent of the Hyborian kingdoms.")
 
@@ -31,7 +31,7 @@ init_techs=""
 init_buildings=""
 init_units=""
 conflicts_with=""
-civilwar_nations = "poitainian", "gundermen", "bossonian", "pictish", "westermarck", "taurani", "cimmerian", "nemedian", "ophirean", "argossean","zingaran" ;,"frankish", "sabine", "samnite", "etruscan", "bosporan"
+civilwar_nations = "poitainian", "Gundermen", "bossonian", "pictish", "westermarck", "taurani", "cimmerian", "nemedian", "ophirean", "argossean","zingaran" ;,"frankish", "sabine", "samnite", "etruscan", "bosporan"
 
 cities =
  "Tarantia",
