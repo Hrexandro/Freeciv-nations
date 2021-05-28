@@ -2,7 +2,7 @@
 
 name=_("Gundermen")
 plural=_("?plural:Gundermen")
-groups="Imaginary"
+groups="Thurian"
 legend = _("The Gundermen are a race of pure Hyborian stock\
  Gunderland was once a separate kingdom, but was incorporated\
  into Aquilonia, less by conquest than agreement. Gunderland\

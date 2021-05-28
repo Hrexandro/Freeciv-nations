@@ -2,7 +2,7 @@
 
 name=_("Doomite")
 plural=_("?plural:Doomites")
-groups="Imaginary"
+groups="Thurian"
 legend=_("The followers of Thulsa Doom are a dark, snake-worshipping cult\
  that preaches asceticism, environmentalism, and renouncing family ties.\
  its pracites involve cannibalism and human sacrifice.")

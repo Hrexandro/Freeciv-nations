@@ -2,7 +2,7 @@
 
 name=_("Stygian")
 plural=_("?plural:Stygians")
-groups="Imaginary"
+groups="Thurian"
 legend=_("Stygia is an ancient kingdom, \
 heavily influenced by the priesthood of its \
 dark religion.")
