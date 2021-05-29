@@ -37,7 +37,7 @@ init_techs=""
 init_buildings=""
 init_units=""
 conflicts_with=""
-civilwar_nations="hyperborean", "nemedian","corinthian", "zamorian","turanian"
+civilwar_nations="hyperborean", "nemedian","corinthian", "zamorian","turanian", "briton"
 
 cities =
 "Pirogia",

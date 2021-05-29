@@ -27,7 +27,7 @@ init_techs=""
 init_buildings=""
 init_units=""
 
-civilwar_nations="zingaran", "shemite","kothian","ophirean","aquilonian";,"pelasgian","greek", "sardinian", "cretean"
+civilwar_nations="zingaran", "shemite","kothian","ophirean","aquilonian", "cretan";,"pelasgian","greek", "sardinian"
 
 cities =
 "Messantia",

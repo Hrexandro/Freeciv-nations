@@ -28,7 +28,7 @@ init_techs=""
 init_buildings=""
 init_units=""
 conflicts_with=""
-civilwar_nations="poitainian", "aquilonian", "bossonian", "pictish", "westermarck", "taurani", "cimmerian"
+civilwar_nations="poitainian", "aquilonian", "bossonian", "pictish", "westermarck", "taurani", "cimmerian", "helvetian"
 
 cities =
 "Gunder",

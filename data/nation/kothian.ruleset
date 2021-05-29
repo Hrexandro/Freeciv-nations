@@ -28,7 +28,7 @@ init_techs=""
 init_buildings=""
 init_units=""
 conflicts_with=""
-civilwar_nations = "argossean","khorajan", "shemite","zamorian","khaurani","turanian","corinthian","ophirean"     ;, "hittite","etruscan", "roman", "sabine", "samnite"
+civilwar_nations = "argossean","khorajan", "shemite","zamorian","khaurani","turanian","corinthian","ophirean" , "hittite"    ;, "roman", "sabine", "samnite","etruscan"
 
 cities =
  "Khorshemish",

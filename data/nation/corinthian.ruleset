@@ -32,7 +32,7 @@ init_techs=""
 init_buildings=""
 init_units=""
 conflicts_with=""
-civilwar_nations="brythunian", "zamorian","kothian", "ophirean", "nemedian"
+civilwar_nations="brythunian", "zamorian","kothian", "ophirean", "nemedian", "greek"
 
 cities =
 "Polopponi",
