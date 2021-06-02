@@ -60,6 +60,7 @@ Nations from Robert E. Howard's Hyborian Era, known from the Conan the Cimmerian
     Bulgarian - add Romani as a civilwar_nation.
     Egyptian Arab - add Brotherhood of Nod as a civilwar_nation.
     Iraqi - add the Islamic State as a civilwar_nation.
+    Lipka Tatar - translate the city names back from Classical Belarusian.
     Macedonian - add Romani as a civilwar_nation.
     Moldovan - add Romani as a civilwar_nation.
     Montenegrin - add Romani as a civilwar_nation.
