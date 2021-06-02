@@ -7,19 +7,19 @@ legend = _("Ants are ants.")
 
 leaders = {
  "name",                                "sex"
-  " ",        "Female" 
+  "Queen",        "Female" 
 
 	
 }
 
 ruler_titles = {
  "government",      "male_title",           "female_title"
- "Monarchy",       _("Drone %s"),                 _("Queen %s")
- "Despotism",      _("Drone %s"),                 _("Queen %s")
- "Democracy",       _("Drone %s"),                 _("Queen %s")
- "Republic",       _("Drone %s"),                 _("Queen %s")
-  "Communism",       _("Drone %s"),                 _("Queen %s")
-    "Fundamentalism",       _("Drone %s"),                 _("Queen %s")
+ "Monarchy",       _("%s"),                 _("%s")
+ "Despotism",      _("%s"),                 _("%s")
+ "Democracy",       _("%s"),                 _("%s")
+ "Republic",       _("%s"),                 _("%s")
+  "Communism",       _("%s"),                 _("%s")
+    "Fundamentalism",       _("%s"),                 _("%s")
 }
 
 flag="ant"
@@ -33,7 +33,7 @@ conflicts_with="klackon"
 civilwar_nations="klackon"
 
 cities =
-"Fomica",
+"Formica",
 "Myrmica",
 "Messor",
 "Manica",
