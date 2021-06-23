@@ -1,0 +1,53 @@
+[nation_enclave]
+
+name=_("Enclave")
+plural=_("?plural:Enclave")
+groups="Imaginary", "Future"
+legend = _("The Enclave is a quasi-state originating\
+ in the pre-War U.S. government, military, and the \
+ corporate elite of entities such as Poseidon Energy and Vault-Tec.")
+
+leaders = {
+ "name",                                "sex"
+ "Dick Richardson",        "Male" 
+   "John Henry Eden",        "Male" 
+
+ 
+}
+
+ruler_titles = {
+ "government",      "male_title",           "female_title"
+ "Monarchy",       _("President %s"),                 _("?female:President %s")
+ "Despotism",      _("President %s"),                 _("?female:President %s")
+ "Democracy",       _("President %s"),                 _("?female:President %s")
+ "Republic",        _("President %s"),                 _("?female:President %s")
+  "Communism",       _("President %s"),                 _("?female:President %s")
+    "Fundamentalism",       _("President %s"),                 _("?female:President %s")
+ 
+ 
+}
+
+flag="enclave"
+flag_alt = "american"
+style = "celtic"
+
+init_techs=""
+init_buildings=""
+init_units=""
+conflicts_with=""
+civilwar_nations="New Californian", "american"
+
+cities =
+"Control Station Enclave",
+"Navarro",
+"Whitespring Bunker",
+"Raven Rock",
+"Adams Air Force Base",
+"Mariposa",
+"Chicago",
+"Enclave Research Facility Site J"
+
+
+
+
+

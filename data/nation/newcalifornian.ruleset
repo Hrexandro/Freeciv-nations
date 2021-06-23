@@ -1,0 +1,145 @@
+[nation_newcalifornian]
+
+name=_("New Californian")
+plural=_("?plural:New Californians")
+groups="Imaginary", "Future"
+legend = _("The New California Republic (NCR) is\
+ a federal parliamentary republic founded in New California.")
+
+leaders = {
+ "name",                                "sex"
+ "Aradesh",        "Male" 
+ "Tandi",        "Female" 
+  "Joanna Tibbett",        "Female" 
+   "Wendell Peterson",        "Male" 
+    "Aaron Kimball",        "Male" 
+ 
+}
+
+ruler_titles = {
+ "government",      "male_title",           "female_title"
+ "Monarchy",       _("President %s"),                 _("?female:President %s")
+ "Despotism",      _("President %s"),                 _("?female:President %s")
+ "Democracy",       _("President %s"),                 _("?female:President %s")
+ "Republic",        _("President %s"),                 _("?female:President %s")
+  "Communism",       _("President %s"),                 _("?female:President %s")
+    "Fundamentalism",       _("President %s"),                 _("?female:President %s")
+ 
+ 
+}
+
+flag="newcalifornian"
+flag_alt = "californian"
+style = "celtic"
+
+init_techs=""
+init_buildings=""
+init_units=""
+conflicts_with=""
+civilwar_nations="brotherhood of steel", "enclave", "Caesar's Legion", "Unity"
+
+cities =
+"Shady Sands",
+"Vault 15",
+"Junktown",
+"The Hub",
+"Boneyard",
+"Dayglow",
+"Arroyo",
+"Klamath",
+"Anza-Borrego",
+"The Divide",
+"Irvine",
+"Modoc",
+"Navarro",
+"New Reno",
+"Oak Creek",
+"One Pine",
+"Owen's Lake",
+"Redding",
+"Sac-Town",
+"The Den",
+"Broken Hills",
+"Vault City",
+"Gecko",
+"Bullhead City ",
+"Willow Beach ",
+"Rattletail",
+"188 trading post",
+"Aerotech Office Park",
+"Bitter Springs",
+"Boulder City",
+"Death Valley",
+"Renoville",
+"Barstow",
+"Palm Springs",
+"Eagle Mountain",
+"Needles",
+"Dana Point",
+"Thousand Oaks",
+"Tijuana",
+"Mexicali",
+"Ocotillo",
+"San Francisco",
+"Concord",
+"San Rafael",
+"Randsburg",
+"Landers",
+"Chemehuevi",
+"Two Harbour (ocean)",
+"Quartz Hill",
+"Tulare",
+"Woodlake",
+"Visalia",
+"Scartop",
+"Copperopolis",
+"Flynn Ranch",
+"Stockton",
+"Gunderson Ranch",
+"Gator Ranch",
+"Scalder",
+"Marklee",
+"Sac-City",
+"Point-Green",
+"Santa Rosa",
+"Bodega",
+"Marysville Ranch",
+"Welding Ranch",
+"Tumbledown Ranch",
+"Old Chico",
+"Tehama",
+"Etna",
+"Crescent",
+"Arcata",
+"Cleone",
+"Orick",
+"Dorris",
+"Medford",
+"Sixes",
+
+"Camp Forlorn Hope",
+"Camp Guardian",
+"Camp Golf",
+"Camp McCarran",
+"Camp Searchlight",
+"HELIOS One",
+"Hoover Dam (river)",
+"Mojave Outpost",
+"NCRCF",
+"Nelson",
+"Primm",
+"Sharecropper farms",
+"Sloan",
+"Fort Aradesh",
+"Ranger Station Alpha",
+"Ranger Station Bravo",
+"Ranger Station Charlie",
+"Ranger Station Delta",
+"Ranger Station Echo",
+"Ranger Station Foxtrot",
+"New Vegas"
+
+
+
+
+

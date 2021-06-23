@@ -1,0 +1,109 @@
+[nation_caesarslegion]
+
+name=_("Caesar's Legion")
+plural=_("?plural:Caesar's Legion")
+groups="Imaginary", "Future"
+legend = _("Caesar's Legion is an imperialistic, \
+reactionary, and totalitarian dictatorship based\ 
+on large scale slavery and tribal dominance.")
+
+leaders = {
+ "name",                                "sex"
+ "Caesar",        "Male" 
+   "Lanius",        "Male" 
+
+ 
+}
+
+ruler_titles = {
+ "government",      "male_title",           "female_title"
+ "Monarchy",       _("Dictator %s"),                 _("?female:Dictator %s")
+ "Despotism",      _("Dictator %s"),                 _("?female:Dictator %s")
+ "Democracy",       _("Legate %s"),                 _("?female:Legate %s")
+ "Republic",        _("Legate %s"),                 _("?female:Legate %s")
+    "Fundamentalism",       _("%s, Son of Mars"),                 _("?female:%s, Daughter of Mars")
+ 
+ 
+}
+
+flag="caesarslegion"
+flag_alt = "roman"
+style = "celtic"
+
+init_techs=""
+init_buildings=""
+init_units=""
+conflicts_with=""
+civilwar_nations= "New Californian"
+
+cities =
+"Flagstaff",
+"El Malpais",
+"Phoenix",
+"Two Sun",
+"Willow Beach",
+"Bullhead City",
+"Dry Wells",
+"Cocomino",
+"Phrey's Peak",
+"Peach Springs",
+"Dry Wells",
+"Apache",
+"Ganado",
+"Tombstone",
+"Hilltop",
+"Bonelli Landing",
+"Kingman",
+"Denver",
+"Cottonwood Cove",
+"Nelson",
+"Nipton",
+"Techatticup",
+"Golden Valley",
+"Prescott",
+"Sonoran",
+"Red Mesa",
+"Painted Desert (desert)",
+"Nogales",
+"Old Sun",
+"Red Sun City",
+"Castra Sol Rubrum",
+"Black Canyon",
+"Tonto",
+"Mt Graham (mountains)",
+"Redrock",
+"Hachita Point",
+"10-Signs",
+"Silver City",
+"Hornpeak",
+"Marble Canyon",
+"Painted Peak",
+"Sandpoint",
+"Blackfoot",
+"Dove Creek",
+"Longknife",
+"Fredonian",
+"Planta Grupo",
+"Poston",
+"Cibelue",
+"Chinle",
+"Agua Prieta",
+"Page",
+"Three-Roads",
+"Salt-Bearer",
+"Quernado",
+"Zuni",
+"New Cortez",
+
+"The Staging Grounds",
+"Castrum Mars",
+"Castrum Saltus",
+"Arizona Spillway",
+"Fortification Hill",
+"The Divide",
+"Legate's Camp",
+"Legion Raid Camp",
+"New Vegas"
+
+
+

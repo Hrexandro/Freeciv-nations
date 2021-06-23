@@ -1,0 +1,89 @@
+[nation_midwesternbrotherhoodofsteel]
+
+name=_("Midwestern Brotherhood of Steel")
+plural=_("?plural:Midwestern Brotherhood of Steel")
+groups="Imaginary", "Future"
+legend = _("The Brotherhood of Steel in the Midwest \
+is a vast empire born out of a splinter faction of \
+the original Brotherhood of Steel. ")
+
+leaders = {
+ "name",                                "sex"
+ "Simon Barnaky",        "Male" 
+ "Dekker",        "Male" 
+ 
+}
+
+ruler_titles = {
+ "government",      "male_title",           "female_title"
+ "Monarchy",       _("General %s"),                 _("?female:General %s")
+ "Despotism",      _("General %s"),                 _("?female:General %s")
+ "Democracy",       _("General %s"),                 _("?female:General %s")
+ "Republic",        _("General %s"),                 _("?female:General %s")
+  "Communism",       _("General %s"),                 _("?female:General %s")
+    "Fundamentalism",       _("General %s"),                 _("?female:General %s")
+ 
+ 
+}
+
+flag="midwesternbrotherhoodofsteel"
+flag_alt = "-"
+style = "celtic"
+
+init_techs=""
+init_buildings=""
+init_units=""
+conflicts_with=""
+civilwar_nations="brotherhood of steel"
+
+cities =
+"Bunker Alpha",  ;Midwestern Brotherhood of Steel
+"Brahmin Wood",
+"Freeport",
+"Rock Falls",
+"Dirt Haven",
+"Devil's Graveyard",
+"Bunker Beta",
+"Macomb",
+"Peoria",
+"Quincy",
+"Mardin",
+"Springfield",
+"Bunker Gamma",
+"St. Louis",
+"Jefferson",
+"Kansas City",
+"Osceolla",
+"Bunker Delta",
+"Junction City",
+"Great Bend",
+"Cold Water",
+"Newton",
+"Bunker Epsilon",
+"Canyon City",
+"Buena Vista",
+"Scott City",
+"Cheyenne Mountain (mountains)",
+"Vault 0",
+"Bunker Zeta",
+"Bunker Eta",
+"Bunker Theta",
+"Bunker Iota",
+"Bunker Kappa",
+"Bunker Lambda",
+"Bunker Mu",
+"Bunker Nu",
+"Bunker Xi",
+"Bunker Omicron",
+"Bunker Pi",
+"Bunker Rho",
+"Bunker Sigma",
+"Bunker Tau",
+"Bunker Upsilon",
+"Bunker Phi",
+"Bunker Chi",
+"Bunker Psi",
+"Bunker Omega"
+
+
+

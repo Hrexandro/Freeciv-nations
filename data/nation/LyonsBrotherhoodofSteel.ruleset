@@ -1,0 +1,59 @@
+[nation_lyonsbrotherhoodofsteel]
+
+name=_("Lyons' Brotherhood of Steel")
+plural=_("?plural:Lyons' Brotherhood of Steel")
+groups="Imaginary", "Future"
+legend = _("The Brotherhood of Steel on the East Coast\
+ is an autonomous chapter of the Brotherhood of Steel,\
+ originally founded by the reformist Elder Owyn Lyons\
+ in 2255. This group, self-stylized as the Lyons'\
+ Brotherhood of Steel, maintains its headquarters \
+ in the Citadel, an imposing fortress built beneath the ruins \
+ of the Pentagon on the edge of what used to be Washington, D.C.")
+
+leaders = {
+ "name",                                "sex"
+ "Owyn Lyons",        "Male" 
+ "Sarah Lyons",        "Female" 
+  "Arthur Maxson",        "Male"
+ 
+}
+
+ruler_titles = {
+ "government",      "male_title",           "female_title"
+ "Monarchy",       _("High Elder %s"),                 _("?female:High Elder %s")
+ "Despotism",      _("High Elder %s"),                 _("?female:High Elder %s")
+ "Democracy",       _("Elder %s"),                 _("?female:Elder %s")
+ "Republic",        _("Elder %s"),                 _("?female:Elder %s")
+  "Communism",       _("Elder %s"),                 _("?female:Elder %s")
+    "Fundamentalism",       _("Paladin %s"),                 _("?female:Paladin %s")
+ 
+ 
+}
+
+flag="lyonsbrotherhoodofsteel"
+flag_alt = "-"
+style = "celtic"
+
+init_techs=""
+init_buildings=""
+init_units=""
+conflicts_with=""
+civilwar_nations="brotherhood of steel", "Brotherhood Outcasts"
+
+cities =
+"The Citadel",;East coast
+"The Prydwen",
+"Adams",
+"Arlington",
+"Falls Church",
+"Jefferson",
+"Cambridge",
+"Boston",
+"Mass Fusion",
+"Waypoint Echo", 
+"Diamond City"
+
+
+
+

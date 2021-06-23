@@ -1,0 +1,61 @@
+[nation_unity]
+
+name=_("Unity")
+plural=_("?plural:Unity Followers")
+groups="Imaginary", "Future"
+legend = _("The Unity was the military and political organization created by the Master to advance his agenda")
+
+leaders = {
+ "name",                                "sex"
+ "Master",        "Male" 
+ "Morpheus",        "Male" 
+  "Marcus",        "Male" 
+
+ 
+}
+
+ruler_titles = {
+ "government",      "male_title",           "female_title"
+ "Monarchy",       _(" %s"),                 _("?female: %s")
+ "Despotism",      _(" %s"),                 _("?female: %s")
+ "Democracy",       _(" %s"),                 _("?female: %s")
+ "Republic",        _(" %s"),                 _("?female: %s")
+    "Fundamentalism",       _("%s"),                 _("?female:%s")
+ 
+ 
+}
+
+flag="unity"
+flag_alt = ""
+style = "european"
+
+init_techs=""
+init_buildings=""
+init_units=""
+conflicts_with=""
+civilwar_nations= "New Californian", "brotherhood of steel"
+
+cities =
+"Cathedral",
+"Mariposa",
+"Vault 17",
+"Necropolis",
+"Broken Hills",
+"Black Mountain",
+"The Belt",
+"Osceolla",
+"Jefferson",
+"St. Louis",
+"Kansas City",
+"Carbon",
+"Los",
+"Ozona",
+"Odessa",
+"Fort Stockton",
+"Austin",
+"San Marcos",
+"Johnson City",
+"San Saba"
+
+
+

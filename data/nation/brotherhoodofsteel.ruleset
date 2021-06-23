@@ -1,0 +1,103 @@
+[nation_brotherhoodofsteel]
+
+name=_("Brotherhood of Steel")
+plural=_("?plural:Brotherhood of Steel")
+groups="Imaginary", "Future"
+legend = _("The Brotherhood of Steel is a post-War \
+techno-religious paramilitary organization with \
+chapters operating across the ruins of America.")
+
+leaders = {
+ "name",                                "sex"
+ "John Maxson",        "Male" 
+ "Roger Maxson",        "Male" 
+  "Maxson II",        "Male"
+ 
+}
+
+ruler_titles = {
+ "government",      "male_title",           "female_title"
+ "Monarchy",       _("High Elder %s"),                 _("?female:High Elder %s")
+ "Despotism",      _("High Elder %s"),                 _("?female:High Elder %s")
+ "Democracy",       _("Elder %s"),                 _("?female:Elder %s")
+ "Republic",        _("Elder %s"),                 _("?female:Elder %s")
+  "Communism",       _("Elder %s"),                 _("?female:Elder %s")
+    "Fundamentalism",       _("Paladin %s"),                 _("?female:Paladin %s")
+ 
+ 
+}
+
+flag="brotherhoodofsteel"
+flag_alt = "-"
+style = "celtic"
+
+init_techs=""
+init_buildings=""
+init_units=""
+conflicts_with=""
+civilwar_nations="Lyons' Brotherhood of Steel", "Midwestern Brotherhood of Steel", "new californian", "unity","enclave"
+
+cities =
+"Lost Hills",
+"Mariposa",
+"Glenville",
+"Alpaugh",
+"Blackwells",
+"Santa Maria",
+"Santa Barbara",
+"Maxson",
+"Ancient Order",
+"Hidden Valley",
+"HELIOS One",
+
+"Camp Venture",;Appalachia
+"Grafton Dam",
+"Spruce Knob",
+"Survey camp Alpha",
+"Firebase Major",
+"Firebase LT",
+"Forward Station Alpha",
+"Big Bend Tunnel",
+"Thunder Mountain",
+"The Thorn",
+"Watoga",
+
+"Montana Bunker", ;montana chapter
+
+"Dallas", ;Texan Brotherhood
+"Fort Worth",
+"Athens",
+"Hillsboro",
+"Waco",
+"Brownwood",
+"Fort Hood",
+"Huntsville",
+"Columbus",
+"Richmond",
+"Nixontown",
+"San Antonio",
+"Maxson Bunker",
+"Walsh",
+"Granbury",
+"Brenham",
+"Port Lavaca (ocean)",
+"The Corpse",
+
+"Capitol Hill", ;Washington Brotherhood
+"Gold Bar",
+"Everett",
+"Rhombus Island (ocean)",
+"Kitsap Peninsula (ocean)",
+"Vashon Island (ocean)",
+"Mt St Helens",
+"The Couve",
+"Pahto",
+"The Camp",
+"Kodiak Base",
+"Enumclaw",
+"White Sprawl"
+
+
+
+
+
