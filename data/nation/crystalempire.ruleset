@@ -28,21 +28,20 @@ style = "classical"
 init_techs=""
 init_buildings=""
 init_units=""
-civilwar_nations = "equestrian"
+civilwar_nations = "equestrian", "griffon", "yakyakistan", "changeling"
 
 cities =
 "Crystal City",
 "Crystal Mountains (mountains)",
-"Angelless Forest",
+"Angelless Forest (forest)",
 "Agate Fields",
 "Aquivitae Creeks",
 "Archer Field",
-"East Crystal Mountains",
-"Eloll Tundra",
+"Eloll Tundra (tundra)",
 "Emerald Piedmont",
 "Evergreen",
 "Feldspar Fields",
-"Frozen Butterfly Forest",
+"Frozen Butterfly Forest (forest)",
 "Heartswarming Field",
 "Jade Hills",
 "Mi Amore Plains",
@@ -54,9 +53,18 @@ cities =
 "Shiny Bound",
 "Skyrock Grounds",
 "Umbrum Cage",
-"Yak Range",
-"Crystal Mines",
-"Crystal Farms",
+"Snowbury",
+"Rubrum",
+"Porridge Town",
+"Rainbow Falls",
+"Canterine",
+"Quebuck",
+"Ponytown",
+"Evergreen",
+
+"Yak Range (mountains)",
+"Crystal Mines (mountains, hills)",
+"Crystal Farms (plains)",
 "Crystallicum"
 
 
