@@ -1,0 +1,102 @@
+[nation_donetskian]
+
+name=_("Donetskian")
+plural=_("?plural:Donetskian")
+groups="Modern", "European"
+legend=_(".")
+
+leaders = {
+ "name",                          "sex"
+ "Denis Pushilin",                        "Male"
+
+ "Vladimir Pashkov",          "Male"
+ "Volodymyr Bidyovka",       "Male"
+
+}
+
+ruler_titles = {
+ "government",      "male_title",         "female_title"
+ "Despotism",       _("Prince %s"),       _("Princess %s")
+ "Monarchy",        _("Grand Prince %s"), _("Grand Princess %s")
+
+ "Fundamentalism",  _("Patriarch %s"),    _("Matriarch %s")
+}
+
+flag="donetskian"
+flag_alt = "-"
+style = "Celtic"
+
+init_techs=""
+init_buildings=""
+init_units=""
+
+conflicts_with="Cossack", "Ruthenian"
+civilwar_nations="ukrainian", "luhanskian", "Russian", "novorossiyan"
+
+cities =
+	"Donetsk",
+
+"Mariupol",
+	"Makiivka",
+	"Horlyvka",
+	"Kramatorsk",
+	"Sloviansk",	
+	"Yenakiieve",
+	"Bakhmut",
+	"Kostiantynivka",
+	"Pokrovsk",
+	
+	"Zhdanivka",
+"Zuhres",
+	"Amvrosiivka",
+"Avdiivka",
+
+"Bilozerske",
+"Bilytske",
+"Chasiv Yar",
+"Debaltseve",
+"Dobropillia",
+"Dokuchaievsk",
+"Yunokomunarivsk",
+"Zalizne",
+"Druzhkivka",
+"Hirnyk",
+"Snizhne",
+"Soledar",
+"Mykolaivka",
+"Toretsk",
+"Torez",
+"Ukrainsk",
+"Volnovakha",
+"Vuhledar",
+"Vuhlehirsk",
+"Yasynuvata",
+"Ilovaisk",
+"Khartsyzk",
+"Kirovske",
+"Komsomolske",
+
+
+"Krasnohorivka",
+"Kurakhove",
+"Lyman",
+"Sviatohirsk",
+"Svitlodarsk",
+"Marinka",
+
+"Mospyne",
+
+"Myrnohrad",
+"Rodynske",
+"Selydove",
+"Shakhtarsk",
+"Siversk",
+"Novoazovsk",
+"Novohrodivka"
+
+
+
+
+
+
+

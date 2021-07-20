@@ -1,0 +1,86 @@
+[nation_luhanskian]
+
+name=_("Luhanskian")
+plural=_("?plural:Luhanskian")
+groups="Modern", "European"
+legend=_(".")
+
+leaders = {
+ "name",                          "sex"
+
+ "Leonid Pasechnik",          "Male"
+ "Sergey Kozlov",       "Male"
+ "Denis Miroshnichenko",                "Male"
+
+}
+
+ruler_titles = {
+ "government",      "male_title",         "female_title"
+ "Despotism",       _("Prince %s"),       _("Princess %s")
+ "Monarchy",        _("Grand Prince %s"), _("Grand Princess %s")
+ "Republic",        _("Hetman %s"),       _("?female:Hetman %s")
+ "Fundamentalism",  _("Patriarch %s"),    _("Matriarch %s")
+}
+
+flag="luhanskian"
+flag_alt = "-"
+style = "Celtic"
+
+init_techs=""
+init_buildings=""
+init_units=""
+
+conflicts_with="Cossack", "Ruthenian"
+civilwar_nations="ukrainian", "donetskian", "Russian", "novorossiyan"
+
+cities =
+ "Luhansk",
+
+ 
+
+"Sievierodonetsk",
+
+"Lysychansk",
+"Alchevsk",
+"Sievierodonetsk",
+"Lysychansk",
+"Krasnyi Luch",
+"Stakhanov",
+"Sverdlovsk",
+"Rubizhne",
+"Antratsit",
+"Rovenky",
+
+
+
+
+"Bilokurakyne",
+"Bilovodsk",
+"Brianca",
+"Kirovsk",
+"Krasnodon",
+"Krasnodon",
+
+"Kreminna",
+
+"Lutuhyne",
+
+"Markivka",
+"Milove",
+"Novoaidar",
+"Novopskov",
+"Perevalsk",
+"Pervomaisk",
+"Popasna",
+
+
+
+"Slovianoserbsk",
+
+"Stanychno-Luhanske",
+"Starobilsk",
+"Svatove",
+
+"Sverdlovsk",
+"Troitske"
+
