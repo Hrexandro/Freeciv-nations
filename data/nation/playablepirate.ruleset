@@ -1,0 +1,62 @@
+[nation_playablepirate]
+
+
+name=_("Pirates") ;def "Pirate"
+plural=_("?plural:Pirates ")
+groups="Imaginary", "Early Modern", "Medieval"
+legend=_("As long as honest men have sailed the seas, pirates have been a\
+ scourge of them and of all coastal dwelling peoples.")
+
+leaders = {
+ "name",                        "sex"
+ "Anne Bonny",                  "Female"
+ "Calico Jack",                 "Male"
+ "Cofresí",                     "Male"
+ "Blackbeard",                  "Male"
+ "Henry Morgan",                "Male"
+ "François l'Ollonais",         "Male"
+ "Bartolomeo Portugues",        "Male"
+  "Nathaniel Claw",        "Male"
+ "Ching Shih",                  "Female"
+}
+
+flag="pirate"
+flag_alt = "-"
+style = "Tropical"
+
+init_techs=""
+init_buildings=""
+init_units=""
+
+conflicts_with = "pirate"
+
+civilwar_nations="Somalian", "algerian","amazigh","moroccan","tunisian","libyan", "jamaican", "haitian", "bahamian"
+
+cities =
+ "New Providence",
+ "Port Royal (ocean)", 
+ "Tortuga",
+ 
+  "Salé", 
+  "Rabat",
+  "Algiers", 
+  "Tunis",
+  "Tripoli" ,
+  "Barataria Bay (ocean)",
+
+  
+  
+  "Campeche",
+"Porto Farina (ocean)" ,
+"Harardhere", 
+"Libertatia", 
+"Matanzas", 
+
+"Saint Thomas" ,
+
+"Virgin Gorda", 
+"La Roca (ocean)",
+  "Porto Piluse (ocean)"
+  
+
+
