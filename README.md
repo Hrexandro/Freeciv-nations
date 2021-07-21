@@ -64,6 +64,7 @@ Nations from Robert E. Howard's Hyborian Era, known from the Conan the Cimmerian
     Islamic State
     Luhanskian
     Novorossiyan
+    Playable Pirates
     Romani
     
 ## Modified default
@@ -146,6 +147,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
 		*include "nation/nod.ruleset"
 		*include "nation/novorossiyan.ruleset"
 		*include "nation/ophirean.ruleset"
+		*include "nation/playablepirate.ruleset"
 		*include "nation/poitainian.ruleset"
 		*include "nation/pony.ruleset"
 		*include "nation/romani.ruleset"
