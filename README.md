@@ -42,9 +42,11 @@ Nations from Robert E. Howard's Hyborian Era, known from the Conan the Cimmerian
 
 ### MLP
     
+    Changeling
     Crystal Empire
     Griffon
     Pony
+    Yakyakistan
     
 ### Tiberian
     
@@ -121,6 +123,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
 		*include "nation/brotherhoodoutcasts.ruleset"
 		*include "nation/brythunian.ruleset"
 		*include "nation/caesarslegion.ruleset"
+		*include "nation/changeling.ruleset"
 		*include "nation/cimmerian.ruleset"
 		*include "nation/corinthian.ruleset"
 		*include "nation/crystalempire.ruleset"
@@ -158,6 +161,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
 		*include "nation/unity.ruleset"
 		*include "nation/vanir.ruleset"
 		*include "nation/westermarck.ruleset"
+		*include "nation/yakyakistan.ruleset"
 		*include "nation/zamorian.ruleset"
 		*include "nation/zingaran.ruleset"
 	
@@ -174,6 +178,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
 		"f.brotherhoodofsteel", "flags/brotherhoodofsteel"
 		"f.brotherhoodoutcasts", "flags/brotherhoodoutcasts"
 		"f.caesarslegion", "flags/caesarslegion"
+		"f.changeling", "flags/changeling"
 		"f.cimmerian", "flags/cimmerian"
 		"f.corinthian", "flags/corinthian"
 		"f.crystal", "flags/crystal"
@@ -210,6 +215,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
 		"f.unity", "flags/unity"
 		"f.vanir", "flags/vanir"
 		"f.westermarck", "flags/westermarck"
+		"f.changeling", "flags/yakyakistan"
 		"f.zamorian", "flags/zamorian"
 		"f.zingaran", "flags/zingaran"
     
@@ -226,6 +232,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
 		"f.shield.brotherhoodofsteel", "flags/brotherhoodofsteel-shield"
 		"f.shield.brotherhoodoutcasts", "flags/brotherhoodoutcasts-shield"
 		"f.shield.caesarslegion", "flags/caesarslegion-shield"
+		"f.shield.changeling", "flags/changeling-shield"
 		"f.shield.cimmerian", "flags/cimmerian-shield"
 		"f.shield.corinthian", "flags/corinthian-shield"
 		"f.shield.crystal", "flags/crystal-shield"
@@ -262,6 +269,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
 		"f.shield.unity", "flags/unity-shield"
 		"f.shield.vanir", "flags/vanir-shield"
 		"f.shield.westermarck", "flags/westermarck-shield"
+		"f.shield.yakyakistan", "flags/yakyakistan-shield"
 		"f.shield.zamorian", "flags/zamorian-shield"
 		"f.shield.zingaran", "flags/zingaran-shield"
     
@@ -278,6 +286,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
 		"f.brotherhoodoutcasts", "flags/brotherhoodoutcasts-large"		
 		"f.brythunian", "flags/brythunian-large"
 		"f.caesarslegion", "flags/caesarslegion-large"
+		"f.changeling", "flags/changeling-large"
 		"f.cimmerian", "flags/cimmerian-large"
 		"f.corinthian", "flags/corinthian-large"
 		"f.crystal", "flags/crystal-large"
@@ -314,6 +323,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
 		"f.unity", "flags/unity-large"
 		"f.vanir", "flags/vanir-large"
 		"f.westermarck", "flags/westermarck-large"
+		"f.yakyakistan", "flags/yakyakistan-large"
 		"f.zamorian", "flags/zamorian-large"
 		"f.zingaran", "flags/zingaran-large"
      
@@ -330,6 +340,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
 		"f.shield.brotherhoodoutcasts", "flags/brotherhoodoutcasts-shield-large"		
 		"f.shield.brythunian", "flags/brythunian-shield-large"
 		"f.shield.caesarslegion", "flags/caesarslegion-shield-large"
+		"f.shield.changeling", "flags/changeling-shield-large"
 		"f.shield.cimmerian", "flags/cimmerian-shield-large"
 		"f.shield.corinthian", "flags/corinthian-shield-large"
 		"f.shield.crystal", "flags/crystal-shield-large"
@@ -366,6 +377,7 @@ Put the folders inside your Freeciv folder and merge with existing directories. 
 		"f.shield.unity", "flags/unity-shield-large"
 		"f.shield.vanir", "flags/vanir-shield-large"
 		"f.shield.westermarck", "flags/westermarck-shield-large"
+		"f.shield.yakyakistan", "flags/yakyakistan-shield-large"
 		"f.shield.zamorian", "flags/zamorian-shield-large"
 		"f.shield.zingaran", "flags/zingaran-shield-large"
     
