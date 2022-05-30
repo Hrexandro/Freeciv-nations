@@ -1,0 +1,50 @@
+[nation_changeling]
+
+name=_("Changeling")
+plural=_("?plural:Changelings")
+groups="Imaginary", "Equestrian"
+legend=_("Changelings are grotesque shape-shifting ponies\
+ who can morph their bodies into anything. These \
+ frightening creatures have fangs as well as insect\
+ features and translucent wings designed to scare even \
+ the bravest pony into submission.")
+
+
+leaders = {
+ "name",            "sex"
+ "Chrysalis",    "Female"
+ "Thorax",    "Male"
+
+}
+
+ruler_titles = {
+ "government",      "male_title",              "female_title"
+
+}
+
+flag="changeling"
+flag_alt = "-"
+style = "babylonian"
+
+init_techs=""
+init_buildings=""
+init_units=""
+civilwar_nations = "equestrian","crystal empire", "griffon", "yakyakistan"
+
+cities =
+"Vesalipolis",
+"Gardis",
+"Lyctida",
+"Phantine",
+"Vraks",
+"Ditrysium",
+"Neverwarm Point (tundra)",
+"Aglossata",
+"Gorak",
+"Soryth",
+"Klabisium",
+"Antax",
+"Hoorornd",
+"Volistad",
+"Sicarius"
+

@@ -1,0 +1,49 @@
+[nation_yakyakistan]
+
+name=_("Yakyakistan")
+plural=_("?plural:Yaks")
+groups="Imaginary", "Equestrian"
+legend=_("Land of the Yaks.")
+
+
+leaders = {
+ "name",            "sex"
+ "Rutherford",    "Male"
+ "Bradford",    "Male"
+
+}
+
+ruler_titles = {
+ "government",      "male_title",              "female_title"
+
+}
+
+flag="yakyakistan"
+flag_alt = "-"
+style = "asian"
+
+init_techs=""
+init_buildings=""
+init_units=""
+civilwar_nations = "equestrian","crystal empire", "griffon", "changeling"
+
+cities =
+"Yakistown",
+"Saihandale",
+"Karsakag",
+"Golgüür",
+"Khereh Davsag",
+"Numuul",
+"Ernaguul",
+"Uulan Baavguy",
+"Manai Gazar",
+"Bara'dur",
+"Oin Shiltgeen",
+"Shidetgasar",
+"Jaki-Clan",
+"Saihan Tolgod",
+"Nokhorsag Oi",
+"Tuuraikhan",
+"Sarlag Khot",
+"Modnihenji",
+"Dalmavalley"

@@ -32,7 +32,7 @@ style = "European"
 init_techs=""
 init_buildings=""
 init_units=""
-civilwar_nations = "crystal empire", "griffon","dryad", "werewolf", "chananean", "yakyakistan", "changeling"
+civilwar_nations = "crystal empire", "griffon", "yakyakistan", "changeling","dryad", "werewolf", "chananean"
 
 cities =
 "Canterlot",
